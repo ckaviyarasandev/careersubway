@@ -6,7 +6,6 @@
   import UserDashboard from "./dashboard/index.svelte";
 
   let login = false;
-
 </script>
 
 <main>

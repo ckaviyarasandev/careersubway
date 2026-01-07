@@ -1,4 +1,5 @@
-node_modules
-.routify
-.history
-dist
+node_modules/
+.vite/
+dist/
+.routify/
+.history/

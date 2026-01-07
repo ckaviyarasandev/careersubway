@@ -1,18 +1,17 @@
 <script>
-  import Navbar from "./components/navbar.svelte";
   import Footer from "./components/footer.svelte";
-  import LandingNavBar from './components/landingNavBar.svelte'
-  
-  let login = false;
+  import LandingNavBar from "./components/landingNavBar.svelte";
+  import Navbar from "./components/navbar.svelte";
 
+  let login = false;
 </script>
 
 <main>
   <header class="w-full sticky top-0 left-0">
     {#if login}
-    <Navbar />
+      <Navbar />
     {:else}
-    <LandingNavBar />
+      <LandingNavBar />
     {/if}
   </header>
 
@@ -21,8 +20,8 @@
   </section>
 
   {#if !login}
-  <footer class="w-full sticky top-0 left-0">
-    <Footer />
-  </footer>
+    <footer class="w-full sticky top-0 left-0">
+      <Footer />
+    </footer>
   {/if}
 </main>

@@ -1,199 +1,76 @@
 <script>
-  const landingNavButton =
-    "landingNavButton py-1 rounded border-x border-white w-full text-center text-base font-bold transition duration-300 hover:shadow-lg hover:text-lg hover:bg-white";
-  const landingNavLink = "px-2 landingNavLink hover:no-underline";
-  const centerButton = "flex items-center justify-center gap-4";
+  const navButtonStyle =
+    "relative flex items-center gap-1 px-2 py-0.5 rounded-lg hover:bg-blue-100 transition border-none  after:absolute after:left-1/2 after:-translate-x-1/2 after:-bottom-1 after:h-0.5 after:w-0 after:bg-blue-600 after:rounded-full after:transition-all after:duration-300 after:ease-out hover:after:w-3/4";
+  const landingNavLink =
+    "relative text-blue-700 px-2 py-0.5 rounded-md font-medium flex items-center justify-center gap-3 select-none transition-all duration-300";
+
+  function gotoRoute(path) {
+    window.location.assign(path);
+  }
 </script>
 
-<nav class="m-0 landingnavBar w-full h-10">
-  <ul class="w-full h-full flex items-center justify-between">
-    <li class={landingNavButton}>
-      <a href="/" class="{landingNavLink} {centerButton}">
-        <svg
-          viewBox="0 0 24 24"
-          class="w-6 h-6"
-          fill="none"
-          xmlns="http://www.w3.org/2000/svg"
-          ><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g
-            id="SVGRepo_tracerCarrier"
-            stroke-linecap="round"
-            stroke-linejoin="round"
-          ></g><g id="SVGRepo_iconCarrier">
-            <path
-              d="M18.5 3H16C15.7239 3 15.5 3.22386 15.5 3.5V3.55891L19 6.35891V3.5C19 3.22386 18.7762 3 18.5 3Z"
-              fill="#1C274C"
-            ></path>
-            <path
-              fill-rule="evenodd"
-              clip-rule="evenodd"
-              d="M10.75 9.5C10.75 8.80964 11.3097 8.25 12 8.25C12.6904 8.25 13.25 8.80964 13.25 9.5C13.25 10.1904 12.6904 10.75 12 10.75C11.3097 10.75 10.75 10.1904 10.75 9.5Z"
-              fill="#1C274C"
-            ></path>
-            <path
-              fill-rule="evenodd"
-              clip-rule="evenodd"
-              d="M20.75 10.9605L21.5315 11.5857C21.855 11.8444 22.3269 11.792 22.5857 11.4685C22.8444 11.1451 22.792 10.6731 22.4685 10.4143L14.3426 3.91362C12.9731 2.81796 11.027 2.81796 9.65742 3.91362L1.53151 10.4143C1.20806 10.6731 1.15562 11.1451 1.41438 11.4685C1.67313 11.792 2.1451 11.8444 2.46855 11.5857L3.25003 10.9605V21.25H2.00003C1.58581 21.25 1.25003 21.5858 1.25003 22C1.25003 22.4142 1.58581 22.75 2.00003 22.75H22C22.4142 22.75 22.75 22.4142 22.75 22C22.75 21.5858 22.4142 21.25 22 21.25H20.75V10.9605ZM9.25003 9.5C9.25003 7.98122 10.4812 6.75 12 6.75C13.5188 6.75 14.75 7.98122 14.75 9.5C14.75 11.0188 13.5188 12.25 12 12.25C10.4812 12.25 9.25003 11.0188 9.25003 9.5ZM12.0494 13.25C12.7143 13.25 13.2871 13.2499 13.7459 13.3116C14.2375 13.3777 14.7088 13.5268 15.091 13.909C15.4733 14.2913 15.6223 14.7625 15.6884 15.2542C15.7462 15.6842 15.7498 16.2146 15.75 16.827C15.75 16.8679 15.75 16.9091 15.75 16.9506L15.75 21.25H14.25V17C14.25 16.2717 14.2484 15.8009 14.2018 15.454C14.1581 15.1287 14.0875 15.0268 14.0304 14.9697C13.9733 14.9126 13.8713 14.842 13.546 14.7982C13.1991 14.7516 12.7283 14.75 12 14.75C11.2717 14.75 10.8009 14.7516 10.4541 14.7982C10.1288 14.842 10.0268 14.9126 9.9697 14.9697C9.9126 15.0268 9.84199 15.1287 9.79826 15.454C9.75162 15.8009 9.75003 16.2717 9.75003 17V21.25H8.25003L8.25003 16.9506C8.24999 16.2858 8.24996 15.7129 8.31163 15.2542C8.37773 14.7625 8.52679 14.2913 8.90904 13.909C9.29128 13.5268 9.76255 13.3777 10.2542 13.3116C10.7129 13.2499 11.2858 13.25 11.9507 13.25H12.0494Z"
-              fill="#1C274C"
-            ></path>
-            <path
-              fill-rule="evenodd"
-              clip-rule="evenodd"
-              d="M10.75 9.5C10.75 8.80964 11.3097 8.25 12 8.25C12.6904 8.25 13.25 8.80964 13.25 9.5C13.25 10.1904 12.6904 10.75 12 10.75C11.3097 10.75 10.75 10.1904 10.75 9.5Z"
-              fill="#1C274C"
-            ></path>
-          </g></svg
-        >
-        Home
-      </a>
-    </li>
-    <li class={landingNavButton}>
-      <a
-        href="/resources"
-        class="{landingNavLink} {centerButton}"
-      >
-        <svg
-          fill="#000000"
-          class="w-6 h-6"
-          version="1.1"
-          id="Layer_1"
-          xmlns="http://www.w3.org/2000/svg"
-          xmlns:xlink="http://www.w3.org/1999/xlink"
-          viewBox="0 0 256 246"
-          enable-background="new 0 0 256 246"
-          xml:space="preserve"
-          ><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g
-            id="SVGRepo_tracerCarrier"
-            stroke-linecap="round"
-            stroke-linejoin="round"
-          ></g><g id="SVGRepo_iconCarrier">
-            <path
-              d="M254,150.588v93.343H53.545v-31.916h64.591v-28.727h60.744v-32.7H254z M113.175,18.875c0,9.282,7.524,16.806,16.806,16.806 s16.806-7.524,16.806-16.806s-7.524-16.806-16.806-16.806S113.175,9.593,113.175,18.875z M189.915,100.17 c-1.62,3.746-6.074,5.264-9.82,3.543l-31.182-14.68c-1.822-0.81-3.341-2.43-3.948-4.353L139.7,69.798l-7.289,36.463l24.593,0.506 c5.264,0.101,9.415,4.556,9.314,9.82l-1.316,50.999c-0.101,5.264-4.454,9.415-9.618,9.415c0,0-0.101,0-0.203,0 c-5.366-0.101-9.516-4.556-9.415-9.82l1.114-41.483l-30.668-0.709l-7.087,35.113c-0.304,1.417-0.911,2.936-1.721,4.151 l-26.224,37.721c-3.341,4.859-9.82,5.872-14.68,2.531c-4.758-3.341-5.872-9.82-2.43-14.579l24.908-35.494l15.963-90.455 L73.183,93.305c-0.556,0.513-1.173,0.919-1.823,1.224l2.972,2.972l-8.68,8.68l14.466,14.466L68.545,132.22L22.253,85.927 l11.573-11.573l14.466,14.466l8.68-8.68l4.843,4.842c0.369-0.79,0.883-1.527,1.553-2.164l39.78-37.769 c5.25-4.518,13.672-7.244,20.962-6.029l6.884,1.316c9.213,1.62,16.299,7.897,19.236,16.097l7.492,20.552l28.448,13.364 C189.915,91.97,191.535,96.424,189.915,100.17z M67.099,97.501L56.972,87.374l-5.063,5.063l10.127,10.127L67.099,97.501z M56.972,126.433l-2.893,2.893l-5.786-5.787l2.893-2.893l-17.36-17.36l-2.893,2.893l-5.787-5.787l2.893-2.893l-8.68-8.68L2,106.18 l46.293,46.293l17.36-17.36L56.972,126.433z"
-            ></path>
-          </g></svg
-        >
-        Resources
-      </a>
-    </li>
-    <li class={landingNavButton}>
-      <a href="/landingPages/blog" class="{landingNavLink} {centerButton}">
-        <svg
-          version="1.1"
-          id="_x32_"
-          class="w-6 h-6"
-          xmlns="http://www.w3.org/2000/svg"
-          xmlns:xlink="http://www.w3.org/1999/xlink"
-          viewBox="0 0 512 512"
-          xml:space="preserve"
-          fill="#000000"
-          ><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g
-            id="SVGRepo_tracerCarrier"
-            stroke-linecap="round"
-            stroke-linejoin="round"
-          ></g><g id="SVGRepo_iconCarrier">
-            <style type="text/css">
-              .st0 {
-                fill: #000000;
-              }
-            </style>
-            <g>
-              <path
-                class="st0"
-                d="M421.073,221.719c-0.578,11.719-9.469,26.188-23.797,40.094v183.25c-0.016,4.719-1.875,8.719-5.016,11.844 c-3.156,3.063-7.25,4.875-12.063,4.906H81.558c-4.781-0.031-8.891-1.844-12.047-4.906c-3.141-3.125-4.984-7.125-5-11.844V152.219 c0.016-4.703,1.859-8.719,5-11.844c3.156-3.063,7.266-4.875,12.047-4.906h158.609c12.828-16.844,27.781-34.094,44.719-49.906 c0.078-0.094,0.141-0.188,0.219-0.281H81.558c-18.75-0.016-35.984,7.531-48.25,19.594c-12.328,12.063-20.016,28.938-20,47.344 v292.844c-0.016,18.406,7.672,35.313,20,47.344C45.573,504.469,62.808,512,81.558,512h298.641c18.781,0,36.016-7.531,48.281-19.594 c12.297-12.031,20-28.938,19.984-47.344V203.469c0,0-0.125-0.156-0.328-0.313C440.37,209.813,431.323,216.156,421.073,221.719z"
-              ></path>
-              <path
-                class="st0"
-                d="M498.058,0c0,0-15.688,23.438-118.156,58.109C275.417,93.469,211.104,237.313,211.104,237.313 c-15.484,29.469-76.688,151.906-76.688,151.906c-16.859,31.625,14.031,50.313,32.156,17.656 c34.734-62.688,57.156-119.969,109.969-121.594c77.047-2.375,129.734-69.656,113.156-66.531c-21.813,9.5-69.906,0.719-41.578-3.656 c68-5.453,109.906-56.563,96.25-60.031c-24.109,9.281-46.594,0.469-51-2.188C513.386,138.281,498.058,0,498.058,0z"
-              ></path>
-            </g>
-          </g></svg
-        >
-        Our Blogs
-      </a>
-    </li>
-    <li class={landingNavButton}>
-      <a
-        href="/landingPages/knowMoreUs"
-        class="{landingNavLink} {centerButton}"
-      >
-        <svg
-          viewBox="0 0 24 24"
-          fill="none"
-          class="w-6 h-6"
-          xmlns="http://www.w3.org/2000/svg"
-          ><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g
-            id="SVGRepo_tracerCarrier"
-            stroke-linecap="round"
-            stroke-linejoin="round"
-          ></g><g id="SVGRepo_iconCarrier">
-            <path
-              d="M15.8571 12C15.8571 14.1303 14.1302 15.8572 12 15.8572C9.86972 15.8572 8.14282 14.1303 8.14282 12C8.14282 9.86979 9.86972 8.14288 12 8.14288C14.1302 8.14288 15.8571 9.86979 15.8571 12ZM15.8571 12L15.8571 13.2857C15.8571 14.7059 17.0084 15.8571 18.4286 15.8571C19.3408 15.8571 20.1422 15.3821 20.5986 14.6658C20.8528 14.2671 21 13.7936 21 13.2857V12C21 9.3345 19.8412 6.93964 18 5.29168M12 3C7.02944 3 3 7.02944 3 12C3 16.9706 7.02944 21 12 21C13.9122 21 15.6851 20.4037 17.1429 19.3868"
-              stroke="#000000"
-              stroke-width="1.5"
-              stroke-linecap="round"
-              stroke-linejoin="round"
-            ></path>
-          </g></svg
-        >
-        Know More Us
-      </a>
-    </li>
-    <li class={landingNavButton}>
-      <a href="/components/signup" class="{landingNavLink} {centerButton}">
-        <svg
-          viewBox="0 -1.5 21 21"
-          version="1.1"
-          class="w-6 h-6"
-          xmlns="http://www.w3.org/2000/svg"
-          xmlns:xlink="http://www.w3.org/1999/xlink"
-          fill="#000000"
-          ><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g
-            id="SVGRepo_tracerCarrier"
-            stroke-linecap="round"
-            stroke-linejoin="round"
-          ></g><g id="SVGRepo_iconCarrier">
-            <title>swipe_right [#1378]</title> <desc>Created with Sketch.</desc>
-            <defs> </defs>
-            <g
-              id="Page-1"
-              stroke="none"
-              stroke-width="1"
-              fill="none"
-              fill-rule="evenodd"
-            >
-              <g
-                id="Dribbble-Light-Preview"
-                transform="translate(-139.000000, -800.000000)"
-                fill="#000000"
-              >
-                <g id="icons" transform="translate(56.000000, 160.000000)">
-                  <path
-                    d="M87.2,645.00025 C87.2,644.44825 86.7296,644.00025 86.15,644.00025 L84.05,644.00025 C83.4704,644.00025 83,644.44825 83,645.00025 C83,645.55225 83.4704,646.00025 84.05,646.00025 L86.15,646.00025 C86.7296,646.00025 87.2,645.55225 87.2,645.00025 M103.38575,643.83125 L103.01195,643.47425 L99.67295,640.29325 C99.2624,639.90225 98.5967,639.90225 98.1872,640.29325 C97.77665,640.68425 97.77665,641.31725 98.1872,641.70725 L99.95225,643.26825 C100.283,643.58325 100.04885,644.00025 99.58055,644.00025 L94.18985,644.00025 C93.6092,644.00025 93.13985,644.44825 93.13985,645.00025 C93.13985,645.55225 93.6092,646.00025 94.18985,646.00025 L99.58265,646.00025 C100.05095,646.00025 100.2851,646.66025 99.95435,646.97525 L98.1872,648.71725 C97.7777,649.10825 97.7777,649.77125 98.1872,650.16225 C98.59775,650.55225 99.2624,650.56725 99.6719,650.17725 L103.38575,646.64825 C104.20475,645.86725 104.20475,644.61225 103.38575,643.83125 M97.3451,653.04225 L96.9965,656.59925 C96.80015,657.53425 95.9381,658.00025 94.93745,658.00025 L89.8607,658.00025 C89.51525,658.00025 89.1908,658.04525 88.9955,657.77425 L86.7275,653.84725 C86.4419,653.45425 86.49125,652.92325 86.8451,652.58625 C87.3008,652.15225 88.05575,652.21425 88.42535,652.71625 L89.3,653.90925 L89.3,645.41425 C89.3,644.86225 89.7746,644.41425 90.3542,644.41425 C91.10075,644.41425 91.4084,645.06025 91.4084,645.41425 L91.4168,650.45825 L95.94965,650.85625 C96.9545,651.17425 97.553,652.05325 97.3451,653.04225"
-                    id="swipe_right-[#1378]"
-                  >
-                  </path>
-                </g>
-              </g>
-            </g>
-          </g></svg
-        >
-        Join With Us
-      </a>
-    </li>
-  </ul>
-</nav>
+<nav
+  class="px-4 py-0.5 sticky top-0 left-0 z-50 bg-white w-full flex items-center justify-between gap-6 border-b-2 border-indigo-300 shadow-md"
+>
+  <a
+    href="/"
+    class="flex items-center gap-3 px-4 py-0.5 rounded-lg underline-offset-4 hover:no-underline"
+  >
+    <img
+      src="../../../assets/WebLogo.png"
+      alt="Career Subway"
+      class="h-10 w-10 rounded-lg"
+    />
 
-<style>
-  .landingnavBar {
-    background: linear-gradient(to top, #3b82f6, #805ad5);
-    box-shadow: 0px 6px 2px 0px #3b82f6;
-  }
-  .landingNavLink {
-    color: white;
-  }
-  .landingNavButton:hover .landingNavLink {
-    color: black;
-  }
-  .landingNavButton {
-    box-shadow: whitesmoke;
-  }
-</style>
+    <span
+      class="text-xl font-extrabold tracking-wide
+      bg-gradient-to-r from-indigo-600 to-blue-500
+      bg-clip-text text-transparent"
+    >
+      Career Subway
+    </span>
+  </a>
+
+  <div class="mt-2 flex items-center gap-2 justify-center">
+    <button
+      type="button"
+      class={navButtonStyle}
+      on:click={() => gotoRoute("/")}
+    >
+      <img src="/svg/home.svg" alt="Home" class="w-5 h-5" />
+      <span class={landingNavLink}> Home </span>
+    </button>
+    <button
+      type="button"
+      class={navButtonStyle}
+      on:click={() => gotoRoute("/resources")}
+    >
+      <img src="/svg/resources.svg" alt="Resources" class="w-5 h-5" />
+      <span class={landingNavLink}> Resources </span>
+    </button>
+    <button
+      type="button"
+      class={navButtonStyle}
+      on:click={() => gotoRoute("/landingPages/blog")}
+    >
+      <img src="/svg/blogs.svg" alt="Blogs" class="w-5 h-5" />
+      <span class={landingNavLink}> Our Blogs </span>
+    </button>
+    <button
+      type="button"
+      class={navButtonStyle}
+      on:click={() => gotoRoute("/landingPages/knowMoreUs")}
+    >
+      <img src="/svg/atsign.svg" alt="Know More Us" class="w-5 h-5" />
+      <span class={landingNavLink}> Know More Us </span>
+    </button>
+    <button
+      type="button"
+      class={navButtonStyle}
+      on:click={() => gotoRoute("/components/signup")}
+    >
+      <img src="/svg/swipe_right.svg" alt="Join With Us" class="w-5 h-5" />
+      <span class={landingNavLink}> Join With Us </span>
+    </button>
+  </div>
+</nav>

@@ -1,11 +1,11 @@
 
 /**
  * @roxi/routify 2.18.8
- * File generated Tue Apr 16 2024 09:54:51 GMT+0530 (India Standard Time)
+ * File generated Wed Jan 07 2026 12:21:39 GMT+0530 (India Standard Time)
  */
 
 export const __version = "2.18.8"
-export const __timestamp = "2024-04-16T04:24:51.782Z"
+export const __timestamp = "2026-01-07T06:51:39.680Z"
 
 //buildRoutes
 import { buildClientTree } from "@roxi/routify/runtime/buildRoutes"
@@ -22,7 +22,7 @@ export const _tree = {
   "filepath": "/_layout.svelte",
   "root": true,
   "ownMeta": {},
-  "absolutePath": "G:/miniProject/K PERIYATHAMBI 22PG101CSC009/StudyPathHubCode/web/src/pages/_layout.svelte",
+  "absolutePath": "D:/project/careersubway/web/src/pages/_layout.svelte",
   "children": [
     {
       "isFile": true,
@@ -32,7 +32,7 @@ export const _tree = {
       "name": "_fallback",
       "ext": "svelte",
       "badExt": false,
-      "absolutePath": "G:/miniProject/K PERIYATHAMBI 22PG101CSC009/StudyPathHubCode/web/src/pages/_fallback.svelte",
+      "absolutePath": "D:/project/careersubway/web/src/pages/_fallback.svelte",
       "importPath": "../src/pages/_fallback.svelte",
       "isLayout": false,
       "isReset": false,
@@ -57,7 +57,7 @@ export const _tree = {
       "name": "components",
       "ext": "",
       "badExt": false,
-      "absolutePath": "G:/miniProject/K PERIYATHAMBI 22PG101CSC009/StudyPathHubCode/web/src/pages/components",
+      "absolutePath": "D:/project/careersubway/web/src/pages/components",
       "children": [
         {
           "isFile": true,
@@ -67,7 +67,7 @@ export const _tree = {
           "name": "academicNews",
           "ext": "svelte",
           "badExt": false,
-          "absolutePath": "G:/miniProject/K PERIYATHAMBI 22PG101CSC009/StudyPathHubCode/web/src/pages/components/academicNews.svelte",
+          "absolutePath": "D:/project/careersubway/web/src/pages/components/academicNews.svelte",
           "importPath": "../src/pages/components/academicNews.svelte",
           "isLayout": false,
           "isReset": false,
@@ -92,7 +92,7 @@ export const _tree = {
           "name": "communityForum",
           "ext": "svelte",
           "badExt": false,
-          "absolutePath": "G:/miniProject/K PERIYATHAMBI 22PG101CSC009/StudyPathHubCode/web/src/pages/components/communityForum.svelte",
+          "absolutePath": "D:/project/careersubway/web/src/pages/components/communityForum.svelte",
           "importPath": "../src/pages/components/communityForum.svelte",
           "isLayout": false,
           "isReset": false,
@@ -117,7 +117,7 @@ export const _tree = {
           "name": "contact",
           "ext": "svelte",
           "badExt": false,
-          "absolutePath": "G:/miniProject/K PERIYATHAMBI 22PG101CSC009/StudyPathHubCode/web/src/pages/components/contact.svelte",
+          "absolutePath": "D:/project/careersubway/web/src/pages/components/contact.svelte",
           "importPath": "../src/pages/components/contact.svelte",
           "isLayout": false,
           "isReset": false,
@@ -142,7 +142,7 @@ export const _tree = {
           "name": "Footer",
           "ext": "svelte",
           "badExt": false,
-          "absolutePath": "G:/miniProject/K PERIYATHAMBI 22PG101CSC009/StudyPathHubCode/web/src/pages/components/Footer.svelte",
+          "absolutePath": "D:/project/careersubway/web/src/pages/components/Footer.svelte",
           "importPath": "../src/pages/components/Footer.svelte",
           "isLayout": false,
           "isReset": false,
@@ -167,7 +167,7 @@ export const _tree = {
           "name": "landingNavBar",
           "ext": "svelte",
           "badExt": false,
-          "absolutePath": "G:/miniProject/K PERIYATHAMBI 22PG101CSC009/StudyPathHubCode/web/src/pages/components/landingNavBar.svelte",
+          "absolutePath": "D:/project/careersubway/web/src/pages/components/landingNavBar.svelte",
           "importPath": "../src/pages/components/landingNavBar.svelte",
           "isLayout": false,
           "isReset": false,
@@ -192,7 +192,7 @@ export const _tree = {
           "name": "login",
           "ext": "svelte",
           "badExt": false,
-          "absolutePath": "G:/miniProject/K PERIYATHAMBI 22PG101CSC009/StudyPathHubCode/web/src/pages/components/login.svelte",
+          "absolutePath": "D:/project/careersubway/web/src/pages/components/login.svelte",
           "importPath": "../src/pages/components/login.svelte",
           "isLayout": false,
           "isReset": false,
@@ -217,7 +217,7 @@ export const _tree = {
           "name": "navbar",
           "ext": "svelte",
           "badExt": false,
-          "absolutePath": "G:/miniProject/K PERIYATHAMBI 22PG101CSC009/StudyPathHubCode/web/src/pages/components/navbar.svelte",
+          "absolutePath": "D:/project/careersubway/web/src/pages/components/navbar.svelte",
           "importPath": "../src/pages/components/navbar.svelte",
           "isLayout": false,
           "isReset": false,
@@ -237,13 +237,13 @@ export const _tree = {
         {
           "isFile": true,
           "isDir": false,
-          "file": "recommendations.svelte",
-          "filepath": "/components/recommendations.svelte",
-          "name": "recommendations",
+          "file": "Recommendations.svelte",
+          "filepath": "/components/Recommendations.svelte",
+          "name": "Recommendations",
           "ext": "svelte",
           "badExt": false,
-          "absolutePath": "G:/miniProject/K PERIYATHAMBI 22PG101CSC009/StudyPathHubCode/web/src/pages/components/recommendations.svelte",
-          "importPath": "../src/pages/components/recommendations.svelte",
+          "absolutePath": "D:/project/careersubway/web/src/pages/components/Recommendations.svelte",
+          "importPath": "../src/pages/components/Recommendations.svelte",
           "isLayout": false,
           "isReset": false,
           "isIndex": false,
@@ -255,9 +255,9 @@ export const _tree = {
             "preload": false,
             "prerender": true
           },
-          "path": "/components/recommendations",
-          "id": "_components_recommendations",
-          "component": () => import('../src/pages/components/recommendations.svelte').then(m => m.default)
+          "path": "/components/Recommendations",
+          "id": "_components_Recommendations",
+          "component": () => import('../src/pages/components/Recommendations.svelte').then(m => m.default)
         },
         {
           "isFile": true,
@@ -267,7 +267,7 @@ export const _tree = {
           "name": "signup",
           "ext": "svelte",
           "badExt": false,
-          "absolutePath": "G:/miniProject/K PERIYATHAMBI 22PG101CSC009/StudyPathHubCode/web/src/pages/components/signup.svelte",
+          "absolutePath": "D:/project/careersubway/web/src/pages/components/signup.svelte",
           "importPath": "../src/pages/components/signup.svelte",
           "isLayout": false,
           "isReset": false,
@@ -292,7 +292,7 @@ export const _tree = {
           "name": "userDashboard",
           "ext": "svelte",
           "badExt": false,
-          "absolutePath": "G:/miniProject/K PERIYATHAMBI 22PG101CSC009/StudyPathHubCode/web/src/pages/components/userDashboard.svelte",
+          "absolutePath": "D:/project/careersubway/web/src/pages/components/userDashboard.svelte",
           "importPath": "../src/pages/components/userDashboard.svelte",
           "isLayout": false,
           "isReset": false,
@@ -326,43 +326,43 @@ export const _tree = {
     {
       "isFile": false,
       "isDir": true,
-      "file": "courses",
-      "filepath": "/courses",
-      "name": "courses",
+      "file": "Courses",
+      "filepath": "/Courses",
+      "name": "Courses",
       "ext": "",
       "badExt": false,
-      "absolutePath": "G:/miniProject/K PERIYATHAMBI 22PG101CSC009/StudyPathHubCode/web/src/pages/courses",
+      "absolutePath": "D:/project/careersubway/web/src/pages/Courses",
       "children": [
         {
           "isFile": false,
           "isDir": true,
           "file": "educationlevel",
-          "filepath": "/courses/educationlevel",
+          "filepath": "/Courses/educationlevel",
           "name": "educationlevel",
           "ext": "",
           "badExt": false,
-          "absolutePath": "G:/miniProject/K PERIYATHAMBI 22PG101CSC009/StudyPathHubCode/web/src/pages/courses/educationlevel",
+          "absolutePath": "D:/project/careersubway/web/src/pages/Courses/educationlevel",
           "children": [
             {
               "isFile": false,
               "isDir": true,
               "file": "diploma",
-              "filepath": "/courses/educationlevel/diploma",
+              "filepath": "/Courses/educationlevel/diploma",
               "name": "diploma",
               "ext": "",
               "badExt": false,
-              "absolutePath": "G:/miniProject/K PERIYATHAMBI 22PG101CSC009/StudyPathHubCode/web/src/pages/courses/educationlevel/diploma",
+              "absolutePath": "D:/project/careersubway/web/src/pages/Courses/educationlevel/diploma",
               "children": [
                 {
                   "isFile": true,
                   "isDir": false,
                   "file": "index.svelte",
-                  "filepath": "/courses/educationlevel/diploma/index.svelte",
+                  "filepath": "/Courses/educationlevel/diploma/index.svelte",
                   "name": "index",
                   "ext": "svelte",
                   "badExt": false,
-                  "absolutePath": "G:/miniProject/K PERIYATHAMBI 22PG101CSC009/StudyPathHubCode/web/src/pages/courses/educationlevel/diploma/index.svelte",
-                  "importPath": "../src/pages/courses/educationlevel/diploma/index.svelte",
+                  "absolutePath": "D:/project/careersubway/web/src/pages/Courses/educationlevel/diploma/index.svelte",
+                  "importPath": "../src/pages/Courses/educationlevel/diploma/index.svelte",
                   "isLayout": false,
                   "isReset": false,
                   "isIndex": true,
@@ -374,9 +374,9 @@ export const _tree = {
                     "preload": false,
                     "prerender": true
                   },
-                  "path": "/courses/educationlevel/diploma/index",
-                  "id": "_courses_educationlevel_diploma_index",
-                  "component": () => import('../src/pages/courses/educationlevel/diploma/index.svelte').then(m => m.default)
+                  "path": "/Courses/educationlevel/diploma/index",
+                  "id": "_Courses_educationlevel_diploma_index",
+                  "component": () => import('../src/pages/Courses/educationlevel/diploma/index.svelte').then(m => m.default)
                 }
               ],
               "isLayout": false,
@@ -390,28 +390,28 @@ export const _tree = {
                 "preload": false,
                 "prerender": true
               },
-              "path": "/courses/educationlevel/diploma"
+              "path": "/Courses/educationlevel/diploma"
             },
             {
               "isFile": false,
               "isDir": true,
               "file": "doctoral",
-              "filepath": "/courses/educationlevel/doctoral",
+              "filepath": "/Courses/educationlevel/doctoral",
               "name": "doctoral",
               "ext": "",
               "badExt": false,
-              "absolutePath": "G:/miniProject/K PERIYATHAMBI 22PG101CSC009/StudyPathHubCode/web/src/pages/courses/educationlevel/doctoral",
+              "absolutePath": "D:/project/careersubway/web/src/pages/Courses/educationlevel/doctoral",
               "children": [
                 {
                   "isFile": true,
                   "isDir": false,
                   "file": "doctoralsub.svelte",
-                  "filepath": "/courses/educationlevel/doctoral/doctoralsub.svelte",
+                  "filepath": "/Courses/educationlevel/doctoral/doctoralsub.svelte",
                   "name": "doctoralsub",
                   "ext": "svelte",
                   "badExt": false,
-                  "absolutePath": "G:/miniProject/K PERIYATHAMBI 22PG101CSC009/StudyPathHubCode/web/src/pages/courses/educationlevel/doctoral/doctoralsub.svelte",
-                  "importPath": "../src/pages/courses/educationlevel/doctoral/doctoralsub.svelte",
+                  "absolutePath": "D:/project/careersubway/web/src/pages/Courses/educationlevel/doctoral/doctoralsub.svelte",
+                  "importPath": "../src/pages/Courses/educationlevel/doctoral/doctoralsub.svelte",
                   "isLayout": false,
                   "isReset": false,
                   "isIndex": false,
@@ -423,20 +423,20 @@ export const _tree = {
                     "preload": false,
                     "prerender": true
                   },
-                  "path": "/courses/educationlevel/doctoral/doctoralsub",
-                  "id": "_courses_educationlevel_doctoral_doctoralsub",
-                  "component": () => import('../src/pages/courses/educationlevel/doctoral/doctoralsub.svelte').then(m => m.default)
+                  "path": "/Courses/educationlevel/doctoral/doctoralsub",
+                  "id": "_Courses_educationlevel_doctoral_doctoralsub",
+                  "component": () => import('../src/pages/Courses/educationlevel/doctoral/doctoralsub.svelte').then(m => m.default)
                 },
                 {
                   "isFile": true,
                   "isDir": false,
                   "file": "index.svelte",
-                  "filepath": "/courses/educationlevel/doctoral/index.svelte",
+                  "filepath": "/Courses/educationlevel/doctoral/index.svelte",
                   "name": "index",
                   "ext": "svelte",
                   "badExt": false,
-                  "absolutePath": "G:/miniProject/K PERIYATHAMBI 22PG101CSC009/StudyPathHubCode/web/src/pages/courses/educationlevel/doctoral/index.svelte",
-                  "importPath": "../src/pages/courses/educationlevel/doctoral/index.svelte",
+                  "absolutePath": "D:/project/careersubway/web/src/pages/Courses/educationlevel/doctoral/index.svelte",
+                  "importPath": "../src/pages/Courses/educationlevel/doctoral/index.svelte",
                   "isLayout": false,
                   "isReset": false,
                   "isIndex": true,
@@ -448,9 +448,9 @@ export const _tree = {
                     "preload": false,
                     "prerender": true
                   },
-                  "path": "/courses/educationlevel/doctoral/index",
-                  "id": "_courses_educationlevel_doctoral_index",
-                  "component": () => import('../src/pages/courses/educationlevel/doctoral/index.svelte').then(m => m.default)
+                  "path": "/Courses/educationlevel/doctoral/index",
+                  "id": "_Courses_educationlevel_doctoral_index",
+                  "component": () => import('../src/pages/Courses/educationlevel/doctoral/index.svelte').then(m => m.default)
                 }
               ],
               "isLayout": false,
@@ -464,28 +464,28 @@ export const _tree = {
                 "preload": false,
                 "prerender": true
               },
-              "path": "/courses/educationlevel/doctoral"
+              "path": "/Courses/educationlevel/doctoral"
             },
             {
               "isFile": false,
               "isDir": true,
               "file": "highersecondary",
-              "filepath": "/courses/educationlevel/highersecondary",
+              "filepath": "/Courses/educationlevel/highersecondary",
               "name": "highersecondary",
               "ext": "",
               "badExt": false,
-              "absolutePath": "G:/miniProject/K PERIYATHAMBI 22PG101CSC009/StudyPathHubCode/web/src/pages/courses/educationlevel/highersecondary",
+              "absolutePath": "D:/project/careersubway/web/src/pages/Courses/educationlevel/highersecondary",
               "children": [
                 {
                   "isFile": true,
                   "isDir": false,
                   "file": "highersecondarysub.svelte",
-                  "filepath": "/courses/educationlevel/highersecondary/highersecondarysub.svelte",
+                  "filepath": "/Courses/educationlevel/highersecondary/highersecondarysub.svelte",
                   "name": "highersecondarysub",
                   "ext": "svelte",
                   "badExt": false,
-                  "absolutePath": "G:/miniProject/K PERIYATHAMBI 22PG101CSC009/StudyPathHubCode/web/src/pages/courses/educationlevel/highersecondary/highersecondarysub.svelte",
-                  "importPath": "../src/pages/courses/educationlevel/highersecondary/highersecondarysub.svelte",
+                  "absolutePath": "D:/project/careersubway/web/src/pages/Courses/educationlevel/highersecondary/highersecondarysub.svelte",
+                  "importPath": "../src/pages/Courses/educationlevel/highersecondary/highersecondarysub.svelte",
                   "isLayout": false,
                   "isReset": false,
                   "isIndex": false,
@@ -497,20 +497,20 @@ export const _tree = {
                     "preload": false,
                     "prerender": true
                   },
-                  "path": "/courses/educationlevel/highersecondary/highersecondarysub",
-                  "id": "_courses_educationlevel_highersecondary_highersecondarysub",
-                  "component": () => import('../src/pages/courses/educationlevel/highersecondary/highersecondarysub.svelte').then(m => m.default)
+                  "path": "/Courses/educationlevel/highersecondary/highersecondarysub",
+                  "id": "_Courses_educationlevel_highersecondary_highersecondarysub",
+                  "component": () => import('../src/pages/Courses/educationlevel/highersecondary/highersecondarysub.svelte').then(m => m.default)
                 },
                 {
                   "isFile": true,
                   "isDir": false,
                   "file": "index.svelte",
-                  "filepath": "/courses/educationlevel/highersecondary/index.svelte",
+                  "filepath": "/Courses/educationlevel/highersecondary/index.svelte",
                   "name": "index",
                   "ext": "svelte",
                   "badExt": false,
-                  "absolutePath": "G:/miniProject/K PERIYATHAMBI 22PG101CSC009/StudyPathHubCode/web/src/pages/courses/educationlevel/highersecondary/index.svelte",
-                  "importPath": "../src/pages/courses/educationlevel/highersecondary/index.svelte",
+                  "absolutePath": "D:/project/careersubway/web/src/pages/Courses/educationlevel/highersecondary/index.svelte",
+                  "importPath": "../src/pages/Courses/educationlevel/highersecondary/index.svelte",
                   "isLayout": false,
                   "isReset": false,
                   "isIndex": true,
@@ -522,9 +522,9 @@ export const _tree = {
                     "preload": false,
                     "prerender": true
                   },
-                  "path": "/courses/educationlevel/highersecondary/index",
-                  "id": "_courses_educationlevel_highersecondary_index",
-                  "component": () => import('../src/pages/courses/educationlevel/highersecondary/index.svelte').then(m => m.default)
+                  "path": "/Courses/educationlevel/highersecondary/index",
+                  "id": "_Courses_educationlevel_highersecondary_index",
+                  "component": () => import('../src/pages/Courses/educationlevel/highersecondary/index.svelte').then(m => m.default)
                 }
               ],
               "isLayout": false,
@@ -538,18 +538,18 @@ export const _tree = {
                 "preload": false,
                 "prerender": true
               },
-              "path": "/courses/educationlevel/highersecondary"
+              "path": "/Courses/educationlevel/highersecondary"
             },
             {
               "isFile": true,
               "isDir": false,
               "file": "index.svelte",
-              "filepath": "/courses/educationlevel/index.svelte",
+              "filepath": "/Courses/educationlevel/index.svelte",
               "name": "index",
               "ext": "svelte",
               "badExt": false,
-              "absolutePath": "G:/miniProject/K PERIYATHAMBI 22PG101CSC009/StudyPathHubCode/web/src/pages/courses/educationlevel/index.svelte",
-              "importPath": "../src/pages/courses/educationlevel/index.svelte",
+              "absolutePath": "D:/project/careersubway/web/src/pages/Courses/educationlevel/index.svelte",
+              "importPath": "../src/pages/Courses/educationlevel/index.svelte",
               "isLayout": false,
               "isReset": false,
               "isIndex": true,
@@ -561,30 +561,30 @@ export const _tree = {
                 "preload": false,
                 "prerender": true
               },
-              "path": "/courses/educationlevel/index",
-              "id": "_courses_educationlevel_index",
-              "component": () => import('../src/pages/courses/educationlevel/index.svelte').then(m => m.default)
+              "path": "/Courses/educationlevel/index",
+              "id": "_Courses_educationlevel_index",
+              "component": () => import('../src/pages/Courses/educationlevel/index.svelte').then(m => m.default)
             },
             {
               "isFile": false,
               "isDir": true,
               "file": "mphil",
-              "filepath": "/courses/educationlevel/mphil",
+              "filepath": "/Courses/educationlevel/mphil",
               "name": "mphil",
               "ext": "",
               "badExt": false,
-              "absolutePath": "G:/miniProject/K PERIYATHAMBI 22PG101CSC009/StudyPathHubCode/web/src/pages/courses/educationlevel/mphil",
+              "absolutePath": "D:/project/careersubway/web/src/pages/Courses/educationlevel/mphil",
               "children": [
                 {
                   "isFile": true,
                   "isDir": false,
                   "file": "index.svelte",
-                  "filepath": "/courses/educationlevel/mphil/index.svelte",
+                  "filepath": "/Courses/educationlevel/mphil/index.svelte",
                   "name": "index",
                   "ext": "svelte",
                   "badExt": false,
-                  "absolutePath": "G:/miniProject/K PERIYATHAMBI 22PG101CSC009/StudyPathHubCode/web/src/pages/courses/educationlevel/mphil/index.svelte",
-                  "importPath": "../src/pages/courses/educationlevel/mphil/index.svelte",
+                  "absolutePath": "D:/project/careersubway/web/src/pages/Courses/educationlevel/mphil/index.svelte",
+                  "importPath": "../src/pages/Courses/educationlevel/mphil/index.svelte",
                   "isLayout": false,
                   "isReset": false,
                   "isIndex": true,
@@ -596,20 +596,20 @@ export const _tree = {
                     "preload": false,
                     "prerender": true
                   },
-                  "path": "/courses/educationlevel/mphil/index",
-                  "id": "_courses_educationlevel_mphil_index",
-                  "component": () => import('../src/pages/courses/educationlevel/mphil/index.svelte').then(m => m.default)
+                  "path": "/Courses/educationlevel/mphil/index",
+                  "id": "_Courses_educationlevel_mphil_index",
+                  "component": () => import('../src/pages/Courses/educationlevel/mphil/index.svelte').then(m => m.default)
                 },
                 {
                   "isFile": true,
                   "isDir": false,
                   "file": "mphilsub.svelte",
-                  "filepath": "/courses/educationlevel/mphil/mphilsub.svelte",
+                  "filepath": "/Courses/educationlevel/mphil/mphilsub.svelte",
                   "name": "mphilsub",
                   "ext": "svelte",
                   "badExt": false,
-                  "absolutePath": "G:/miniProject/K PERIYATHAMBI 22PG101CSC009/StudyPathHubCode/web/src/pages/courses/educationlevel/mphil/mphilsub.svelte",
-                  "importPath": "../src/pages/courses/educationlevel/mphil/mphilsub.svelte",
+                  "absolutePath": "D:/project/careersubway/web/src/pages/Courses/educationlevel/mphil/mphilsub.svelte",
+                  "importPath": "../src/pages/Courses/educationlevel/mphil/mphilsub.svelte",
                   "isLayout": false,
                   "isReset": false,
                   "isIndex": false,
@@ -621,9 +621,9 @@ export const _tree = {
                     "preload": false,
                     "prerender": true
                   },
-                  "path": "/courses/educationlevel/mphil/mphilsub",
-                  "id": "_courses_educationlevel_mphil_mphilsub",
-                  "component": () => import('../src/pages/courses/educationlevel/mphil/mphilsub.svelte').then(m => m.default)
+                  "path": "/Courses/educationlevel/mphil/mphilsub",
+                  "id": "_Courses_educationlevel_mphil_mphilsub",
+                  "component": () => import('../src/pages/Courses/educationlevel/mphil/mphilsub.svelte').then(m => m.default)
                 }
               ],
               "isLayout": false,
@@ -637,28 +637,28 @@ export const _tree = {
                 "preload": false,
                 "prerender": true
               },
-              "path": "/courses/educationlevel/mphil"
+              "path": "/Courses/educationlevel/mphil"
             },
             {
               "isFile": false,
               "isDir": true,
               "file": "postdoctoral",
-              "filepath": "/courses/educationlevel/postdoctoral",
+              "filepath": "/Courses/educationlevel/postdoctoral",
               "name": "postdoctoral",
               "ext": "",
               "badExt": false,
-              "absolutePath": "G:/miniProject/K PERIYATHAMBI 22PG101CSC009/StudyPathHubCode/web/src/pages/courses/educationlevel/postdoctoral",
+              "absolutePath": "D:/project/careersubway/web/src/pages/Courses/educationlevel/postdoctoral",
               "children": [
                 {
                   "isFile": true,
                   "isDir": false,
                   "file": "index.svelte",
-                  "filepath": "/courses/educationlevel/postdoctoral/index.svelte",
+                  "filepath": "/Courses/educationlevel/postdoctoral/index.svelte",
                   "name": "index",
                   "ext": "svelte",
                   "badExt": false,
-                  "absolutePath": "G:/miniProject/K PERIYATHAMBI 22PG101CSC009/StudyPathHubCode/web/src/pages/courses/educationlevel/postdoctoral/index.svelte",
-                  "importPath": "../src/pages/courses/educationlevel/postdoctoral/index.svelte",
+                  "absolutePath": "D:/project/careersubway/web/src/pages/Courses/educationlevel/postdoctoral/index.svelte",
+                  "importPath": "../src/pages/Courses/educationlevel/postdoctoral/index.svelte",
                   "isLayout": false,
                   "isReset": false,
                   "isIndex": true,
@@ -670,20 +670,20 @@ export const _tree = {
                     "preload": false,
                     "prerender": true
                   },
-                  "path": "/courses/educationlevel/postdoctoral/index",
-                  "id": "_courses_educationlevel_postdoctoral_index",
-                  "component": () => import('../src/pages/courses/educationlevel/postdoctoral/index.svelte').then(m => m.default)
+                  "path": "/Courses/educationlevel/postdoctoral/index",
+                  "id": "_Courses_educationlevel_postdoctoral_index",
+                  "component": () => import('../src/pages/Courses/educationlevel/postdoctoral/index.svelte').then(m => m.default)
                 },
                 {
                   "isFile": true,
                   "isDir": false,
                   "file": "postdoctoralsub.svelte",
-                  "filepath": "/courses/educationlevel/postdoctoral/postdoctoralsub.svelte",
+                  "filepath": "/Courses/educationlevel/postdoctoral/postdoctoralsub.svelte",
                   "name": "postdoctoralsub",
                   "ext": "svelte",
                   "badExt": false,
-                  "absolutePath": "G:/miniProject/K PERIYATHAMBI 22PG101CSC009/StudyPathHubCode/web/src/pages/courses/educationlevel/postdoctoral/postdoctoralsub.svelte",
-                  "importPath": "../src/pages/courses/educationlevel/postdoctoral/postdoctoralsub.svelte",
+                  "absolutePath": "D:/project/careersubway/web/src/pages/Courses/educationlevel/postdoctoral/postdoctoralsub.svelte",
+                  "importPath": "../src/pages/Courses/educationlevel/postdoctoral/postdoctoralsub.svelte",
                   "isLayout": false,
                   "isReset": false,
                   "isIndex": false,
@@ -695,9 +695,9 @@ export const _tree = {
                     "preload": false,
                     "prerender": true
                   },
-                  "path": "/courses/educationlevel/postdoctoral/postdoctoralsub",
-                  "id": "_courses_educationlevel_postdoctoral_postdoctoralsub",
-                  "component": () => import('../src/pages/courses/educationlevel/postdoctoral/postdoctoralsub.svelte').then(m => m.default)
+                  "path": "/Courses/educationlevel/postdoctoral/postdoctoralsub",
+                  "id": "_Courses_educationlevel_postdoctoral_postdoctoralsub",
+                  "component": () => import('../src/pages/Courses/educationlevel/postdoctoral/postdoctoralsub.svelte').then(m => m.default)
                 }
               ],
               "isLayout": false,
@@ -711,28 +711,28 @@ export const _tree = {
                 "preload": false,
                 "prerender": true
               },
-              "path": "/courses/educationlevel/postdoctoral"
+              "path": "/Courses/educationlevel/postdoctoral"
             },
             {
               "isFile": false,
               "isDir": true,
               "file": "postgraduate",
-              "filepath": "/courses/educationlevel/postgraduate",
+              "filepath": "/Courses/educationlevel/postgraduate",
               "name": "postgraduate",
               "ext": "",
               "badExt": false,
-              "absolutePath": "G:/miniProject/K PERIYATHAMBI 22PG101CSC009/StudyPathHubCode/web/src/pages/courses/educationlevel/postgraduate",
+              "absolutePath": "D:/project/careersubway/web/src/pages/Courses/educationlevel/postgraduate",
               "children": [
                 {
                   "isFile": true,
                   "isDir": false,
                   "file": "index.svelte",
-                  "filepath": "/courses/educationlevel/postgraduate/index.svelte",
+                  "filepath": "/Courses/educationlevel/postgraduate/index.svelte",
                   "name": "index",
                   "ext": "svelte",
                   "badExt": false,
-                  "absolutePath": "G:/miniProject/K PERIYATHAMBI 22PG101CSC009/StudyPathHubCode/web/src/pages/courses/educationlevel/postgraduate/index.svelte",
-                  "importPath": "../src/pages/courses/educationlevel/postgraduate/index.svelte",
+                  "absolutePath": "D:/project/careersubway/web/src/pages/Courses/educationlevel/postgraduate/index.svelte",
+                  "importPath": "../src/pages/Courses/educationlevel/postgraduate/index.svelte",
                   "isLayout": false,
                   "isReset": false,
                   "isIndex": true,
@@ -744,20 +744,20 @@ export const _tree = {
                     "preload": false,
                     "prerender": true
                   },
-                  "path": "/courses/educationlevel/postgraduate/index",
-                  "id": "_courses_educationlevel_postgraduate_index",
-                  "component": () => import('../src/pages/courses/educationlevel/postgraduate/index.svelte').then(m => m.default)
+                  "path": "/Courses/educationlevel/postgraduate/index",
+                  "id": "_Courses_educationlevel_postgraduate_index",
+                  "component": () => import('../src/pages/Courses/educationlevel/postgraduate/index.svelte').then(m => m.default)
                 },
                 {
                   "isFile": true,
                   "isDir": false,
                   "file": "postgraduatesub.svelte",
-                  "filepath": "/courses/educationlevel/postgraduate/postgraduatesub.svelte",
+                  "filepath": "/Courses/educationlevel/postgraduate/postgraduatesub.svelte",
                   "name": "postgraduatesub",
                   "ext": "svelte",
                   "badExt": false,
-                  "absolutePath": "G:/miniProject/K PERIYATHAMBI 22PG101CSC009/StudyPathHubCode/web/src/pages/courses/educationlevel/postgraduate/postgraduatesub.svelte",
-                  "importPath": "../src/pages/courses/educationlevel/postgraduate/postgraduatesub.svelte",
+                  "absolutePath": "D:/project/careersubway/web/src/pages/Courses/educationlevel/postgraduate/postgraduatesub.svelte",
+                  "importPath": "../src/pages/Courses/educationlevel/postgraduate/postgraduatesub.svelte",
                   "isLayout": false,
                   "isReset": false,
                   "isIndex": false,
@@ -769,9 +769,9 @@ export const _tree = {
                     "preload": false,
                     "prerender": true
                   },
-                  "path": "/courses/educationlevel/postgraduate/postgraduatesub",
-                  "id": "_courses_educationlevel_postgraduate_postgraduatesub",
-                  "component": () => import('../src/pages/courses/educationlevel/postgraduate/postgraduatesub.svelte').then(m => m.default)
+                  "path": "/Courses/educationlevel/postgraduate/postgraduatesub",
+                  "id": "_Courses_educationlevel_postgraduate_postgraduatesub",
+                  "component": () => import('../src/pages/Courses/educationlevel/postgraduate/postgraduatesub.svelte').then(m => m.default)
                 }
               ],
               "isLayout": false,
@@ -785,28 +785,28 @@ export const _tree = {
                 "preload": false,
                 "prerender": true
               },
-              "path": "/courses/educationlevel/postgraduate"
+              "path": "/Courses/educationlevel/postgraduate"
             },
             {
               "isFile": false,
               "isDir": true,
               "file": "secondary",
-              "filepath": "/courses/educationlevel/secondary",
+              "filepath": "/Courses/educationlevel/secondary",
               "name": "secondary",
               "ext": "",
               "badExt": false,
-              "absolutePath": "G:/miniProject/K PERIYATHAMBI 22PG101CSC009/StudyPathHubCode/web/src/pages/courses/educationlevel/secondary",
+              "absolutePath": "D:/project/careersubway/web/src/pages/Courses/educationlevel/secondary",
               "children": [
                 {
                   "isFile": true,
                   "isDir": false,
                   "file": "about.svelte",
-                  "filepath": "/courses/educationlevel/secondary/about.svelte",
+                  "filepath": "/Courses/educationlevel/secondary/about.svelte",
                   "name": "about",
                   "ext": "svelte",
                   "badExt": false,
-                  "absolutePath": "G:/miniProject/K PERIYATHAMBI 22PG101CSC009/StudyPathHubCode/web/src/pages/courses/educationlevel/secondary/about.svelte",
-                  "importPath": "../src/pages/courses/educationlevel/secondary/about.svelte",
+                  "absolutePath": "D:/project/careersubway/web/src/pages/Courses/educationlevel/secondary/about.svelte",
+                  "importPath": "../src/pages/Courses/educationlevel/secondary/about.svelte",
                   "isLayout": false,
                   "isReset": false,
                   "isIndex": false,
@@ -818,20 +818,20 @@ export const _tree = {
                     "preload": false,
                     "prerender": true
                   },
-                  "path": "/courses/educationlevel/secondary/about",
-                  "id": "_courses_educationlevel_secondary_about",
-                  "component": () => import('../src/pages/courses/educationlevel/secondary/about.svelte').then(m => m.default)
+                  "path": "/Courses/educationlevel/secondary/about",
+                  "id": "_Courses_educationlevel_secondary_about",
+                  "component": () => import('../src/pages/Courses/educationlevel/secondary/about.svelte').then(m => m.default)
                 },
                 {
                   "isFile": true,
                   "isDir": false,
                   "file": "index.svelte",
-                  "filepath": "/courses/educationlevel/secondary/index.svelte",
+                  "filepath": "/Courses/educationlevel/secondary/index.svelte",
                   "name": "index",
                   "ext": "svelte",
                   "badExt": false,
-                  "absolutePath": "G:/miniProject/K PERIYATHAMBI 22PG101CSC009/StudyPathHubCode/web/src/pages/courses/educationlevel/secondary/index.svelte",
-                  "importPath": "../src/pages/courses/educationlevel/secondary/index.svelte",
+                  "absolutePath": "D:/project/careersubway/web/src/pages/Courses/educationlevel/secondary/index.svelte",
+                  "importPath": "../src/pages/Courses/educationlevel/secondary/index.svelte",
                   "isLayout": false,
                   "isReset": false,
                   "isIndex": true,
@@ -843,20 +843,20 @@ export const _tree = {
                     "preload": false,
                     "prerender": true
                   },
-                  "path": "/courses/educationlevel/secondary/index",
-                  "id": "_courses_educationlevel_secondary_index",
-                  "component": () => import('../src/pages/courses/educationlevel/secondary/index.svelte').then(m => m.default)
+                  "path": "/Courses/educationlevel/secondary/index",
+                  "id": "_Courses_educationlevel_secondary_index",
+                  "component": () => import('../src/pages/Courses/educationlevel/secondary/index.svelte').then(m => m.default)
                 },
                 {
                   "isFile": true,
                   "isDir": false,
                   "file": "job.svelte",
-                  "filepath": "/courses/educationlevel/secondary/job.svelte",
+                  "filepath": "/Courses/educationlevel/secondary/job.svelte",
                   "name": "job",
                   "ext": "svelte",
                   "badExt": false,
-                  "absolutePath": "G:/miniProject/K PERIYATHAMBI 22PG101CSC009/StudyPathHubCode/web/src/pages/courses/educationlevel/secondary/job.svelte",
-                  "importPath": "../src/pages/courses/educationlevel/secondary/job.svelte",
+                  "absolutePath": "D:/project/careersubway/web/src/pages/Courses/educationlevel/secondary/job.svelte",
+                  "importPath": "../src/pages/Courses/educationlevel/secondary/job.svelte",
                   "isLayout": false,
                   "isReset": false,
                   "isIndex": false,
@@ -868,20 +868,20 @@ export const _tree = {
                     "preload": false,
                     "prerender": true
                   },
-                  "path": "/courses/educationlevel/secondary/job",
-                  "id": "_courses_educationlevel_secondary_job",
-                  "component": () => import('../src/pages/courses/educationlevel/secondary/job.svelte').then(m => m.default)
+                  "path": "/Courses/educationlevel/secondary/job",
+                  "id": "_Courses_educationlevel_secondary_job",
+                  "component": () => import('../src/pages/Courses/educationlevel/secondary/job.svelte').then(m => m.default)
                 },
                 {
                   "isFile": true,
                   "isDir": false,
                   "file": "major.svelte",
-                  "filepath": "/courses/educationlevel/secondary/major.svelte",
+                  "filepath": "/Courses/educationlevel/secondary/major.svelte",
                   "name": "major",
                   "ext": "svelte",
                   "badExt": false,
-                  "absolutePath": "G:/miniProject/K PERIYATHAMBI 22PG101CSC009/StudyPathHubCode/web/src/pages/courses/educationlevel/secondary/major.svelte",
-                  "importPath": "../src/pages/courses/educationlevel/secondary/major.svelte",
+                  "absolutePath": "D:/project/careersubway/web/src/pages/Courses/educationlevel/secondary/major.svelte",
+                  "importPath": "../src/pages/Courses/educationlevel/secondary/major.svelte",
                   "isLayout": false,
                   "isReset": false,
                   "isIndex": false,
@@ -893,20 +893,20 @@ export const _tree = {
                     "preload": false,
                     "prerender": true
                   },
-                  "path": "/courses/educationlevel/secondary/major",
-                  "id": "_courses_educationlevel_secondary_major",
-                  "component": () => import('../src/pages/courses/educationlevel/secondary/major.svelte').then(m => m.default)
+                  "path": "/Courses/educationlevel/secondary/major",
+                  "id": "_Courses_educationlevel_secondary_major",
+                  "component": () => import('../src/pages/Courses/educationlevel/secondary/major.svelte').then(m => m.default)
                 },
                 {
                   "isFile": true,
                   "isDir": false,
                   "file": "secondarysub.svelte",
-                  "filepath": "/courses/educationlevel/secondary/secondarysub.svelte",
+                  "filepath": "/Courses/educationlevel/secondary/secondarysub.svelte",
                   "name": "secondarysub",
                   "ext": "svelte",
                   "badExt": false,
-                  "absolutePath": "G:/miniProject/K PERIYATHAMBI 22PG101CSC009/StudyPathHubCode/web/src/pages/courses/educationlevel/secondary/secondarysub.svelte",
-                  "importPath": "../src/pages/courses/educationlevel/secondary/secondarysub.svelte",
+                  "absolutePath": "D:/project/careersubway/web/src/pages/Courses/educationlevel/secondary/secondarysub.svelte",
+                  "importPath": "../src/pages/Courses/educationlevel/secondary/secondarysub.svelte",
                   "isLayout": false,
                   "isReset": false,
                   "isIndex": false,
@@ -918,9 +918,9 @@ export const _tree = {
                     "preload": false,
                     "prerender": true
                   },
-                  "path": "/courses/educationlevel/secondary/secondarysub",
-                  "id": "_courses_educationlevel_secondary_secondarysub",
-                  "component": () => import('../src/pages/courses/educationlevel/secondary/secondarysub.svelte').then(m => m.default)
+                  "path": "/Courses/educationlevel/secondary/secondarysub",
+                  "id": "_Courses_educationlevel_secondary_secondarysub",
+                  "component": () => import('../src/pages/Courses/educationlevel/secondary/secondarysub.svelte').then(m => m.default)
                 }
               ],
               "isLayout": false,
@@ -934,28 +934,28 @@ export const _tree = {
                 "preload": false,
                 "prerender": true
               },
-              "path": "/courses/educationlevel/secondary"
+              "path": "/Courses/educationlevel/secondary"
             },
             {
               "isFile": false,
               "isDir": true,
               "file": "teaching",
-              "filepath": "/courses/educationlevel/teaching",
+              "filepath": "/Courses/educationlevel/teaching",
               "name": "teaching",
               "ext": "",
               "badExt": false,
-              "absolutePath": "G:/miniProject/K PERIYATHAMBI 22PG101CSC009/StudyPathHubCode/web/src/pages/courses/educationlevel/teaching",
+              "absolutePath": "D:/project/careersubway/web/src/pages/Courses/educationlevel/teaching",
               "children": [
                 {
                   "isFile": true,
                   "isDir": false,
                   "file": "index.svelte",
-                  "filepath": "/courses/educationlevel/teaching/index.svelte",
+                  "filepath": "/Courses/educationlevel/teaching/index.svelte",
                   "name": "index",
                   "ext": "svelte",
                   "badExt": false,
-                  "absolutePath": "G:/miniProject/K PERIYATHAMBI 22PG101CSC009/StudyPathHubCode/web/src/pages/courses/educationlevel/teaching/index.svelte",
-                  "importPath": "../src/pages/courses/educationlevel/teaching/index.svelte",
+                  "absolutePath": "D:/project/careersubway/web/src/pages/Courses/educationlevel/teaching/index.svelte",
+                  "importPath": "../src/pages/Courses/educationlevel/teaching/index.svelte",
                   "isLayout": false,
                   "isReset": false,
                   "isIndex": true,
@@ -967,20 +967,20 @@ export const _tree = {
                     "preload": false,
                     "prerender": true
                   },
-                  "path": "/courses/educationlevel/teaching/index",
-                  "id": "_courses_educationlevel_teaching_index",
-                  "component": () => import('../src/pages/courses/educationlevel/teaching/index.svelte').then(m => m.default)
+                  "path": "/Courses/educationlevel/teaching/index",
+                  "id": "_Courses_educationlevel_teaching_index",
+                  "component": () => import('../src/pages/Courses/educationlevel/teaching/index.svelte').then(m => m.default)
                 },
                 {
                   "isFile": true,
                   "isDir": false,
                   "file": "teachingsub.svelte",
-                  "filepath": "/courses/educationlevel/teaching/teachingsub.svelte",
+                  "filepath": "/Courses/educationlevel/teaching/teachingsub.svelte",
                   "name": "teachingsub",
                   "ext": "svelte",
                   "badExt": false,
-                  "absolutePath": "G:/miniProject/K PERIYATHAMBI 22PG101CSC009/StudyPathHubCode/web/src/pages/courses/educationlevel/teaching/teachingsub.svelte",
-                  "importPath": "../src/pages/courses/educationlevel/teaching/teachingsub.svelte",
+                  "absolutePath": "D:/project/careersubway/web/src/pages/Courses/educationlevel/teaching/teachingsub.svelte",
+                  "importPath": "../src/pages/Courses/educationlevel/teaching/teachingsub.svelte",
                   "isLayout": false,
                   "isReset": false,
                   "isIndex": false,
@@ -992,9 +992,9 @@ export const _tree = {
                     "preload": false,
                     "prerender": true
                   },
-                  "path": "/courses/educationlevel/teaching/teachingsub",
-                  "id": "_courses_educationlevel_teaching_teachingsub",
-                  "component": () => import('../src/pages/courses/educationlevel/teaching/teachingsub.svelte').then(m => m.default)
+                  "path": "/Courses/educationlevel/teaching/teachingsub",
+                  "id": "_Courses_educationlevel_teaching_teachingsub",
+                  "component": () => import('../src/pages/Courses/educationlevel/teaching/teachingsub.svelte').then(m => m.default)
                 }
               ],
               "isLayout": false,
@@ -1008,28 +1008,28 @@ export const _tree = {
                 "preload": false,
                 "prerender": true
               },
-              "path": "/courses/educationlevel/teaching"
+              "path": "/Courses/educationlevel/teaching"
             },
             {
               "isFile": false,
               "isDir": true,
               "file": "undergraduate",
-              "filepath": "/courses/educationlevel/undergraduate",
+              "filepath": "/Courses/educationlevel/undergraduate",
               "name": "undergraduate",
               "ext": "",
               "badExt": false,
-              "absolutePath": "G:/miniProject/K PERIYATHAMBI 22PG101CSC009/StudyPathHubCode/web/src/pages/courses/educationlevel/undergraduate",
+              "absolutePath": "D:/project/careersubway/web/src/pages/Courses/educationlevel/undergraduate",
               "children": [
                 {
                   "isFile": true,
                   "isDir": false,
                   "file": "index.svelte",
-                  "filepath": "/courses/educationlevel/undergraduate/index.svelte",
+                  "filepath": "/Courses/educationlevel/undergraduate/index.svelte",
                   "name": "index",
                   "ext": "svelte",
                   "badExt": false,
-                  "absolutePath": "G:/miniProject/K PERIYATHAMBI 22PG101CSC009/StudyPathHubCode/web/src/pages/courses/educationlevel/undergraduate/index.svelte",
-                  "importPath": "../src/pages/courses/educationlevel/undergraduate/index.svelte",
+                  "absolutePath": "D:/project/careersubway/web/src/pages/Courses/educationlevel/undergraduate/index.svelte",
+                  "importPath": "../src/pages/Courses/educationlevel/undergraduate/index.svelte",
                   "isLayout": false,
                   "isReset": false,
                   "isIndex": true,
@@ -1041,20 +1041,20 @@ export const _tree = {
                     "preload": false,
                     "prerender": true
                   },
-                  "path": "/courses/educationlevel/undergraduate/index",
-                  "id": "_courses_educationlevel_undergraduate_index",
-                  "component": () => import('../src/pages/courses/educationlevel/undergraduate/index.svelte').then(m => m.default)
+                  "path": "/Courses/educationlevel/undergraduate/index",
+                  "id": "_Courses_educationlevel_undergraduate_index",
+                  "component": () => import('../src/pages/Courses/educationlevel/undergraduate/index.svelte').then(m => m.default)
                 },
                 {
                   "isFile": true,
                   "isDir": false,
                   "file": "undergraduatesub.svelte",
-                  "filepath": "/courses/educationlevel/undergraduate/undergraduatesub.svelte",
+                  "filepath": "/Courses/educationlevel/undergraduate/undergraduatesub.svelte",
                   "name": "undergraduatesub",
                   "ext": "svelte",
                   "badExt": false,
-                  "absolutePath": "G:/miniProject/K PERIYATHAMBI 22PG101CSC009/StudyPathHubCode/web/src/pages/courses/educationlevel/undergraduate/undergraduatesub.svelte",
-                  "importPath": "../src/pages/courses/educationlevel/undergraduate/undergraduatesub.svelte",
+                  "absolutePath": "D:/project/careersubway/web/src/pages/Courses/educationlevel/undergraduate/undergraduatesub.svelte",
+                  "importPath": "../src/pages/Courses/educationlevel/undergraduate/undergraduatesub.svelte",
                   "isLayout": false,
                   "isReset": false,
                   "isIndex": false,
@@ -1066,9 +1066,9 @@ export const _tree = {
                     "preload": false,
                     "prerender": true
                   },
-                  "path": "/courses/educationlevel/undergraduate/undergraduatesub",
-                  "id": "_courses_educationlevel_undergraduate_undergraduatesub",
-                  "component": () => import('../src/pages/courses/educationlevel/undergraduate/undergraduatesub.svelte').then(m => m.default)
+                  "path": "/Courses/educationlevel/undergraduate/undergraduatesub",
+                  "id": "_Courses_educationlevel_undergraduate_undergraduatesub",
+                  "component": () => import('../src/pages/Courses/educationlevel/undergraduate/undergraduatesub.svelte').then(m => m.default)
                 }
               ],
               "isLayout": false,
@@ -1082,7 +1082,7 @@ export const _tree = {
                 "preload": false,
                 "prerender": true
               },
-              "path": "/courses/educationlevel/undergraduate"
+              "path": "/Courses/educationlevel/undergraduate"
             }
           ],
           "isLayout": false,
@@ -1096,18 +1096,18 @@ export const _tree = {
             "preload": false,
             "prerender": true
           },
-          "path": "/courses/educationlevel"
+          "path": "/Courses/educationlevel"
         },
         {
           "isFile": true,
           "isDir": false,
           "file": "sample.html",
-          "filepath": "/courses/sample.html",
+          "filepath": "/Courses/sample.html",
           "name": "sample",
           "ext": "html",
           "badExt": false,
-          "absolutePath": "G:/miniProject/K PERIYATHAMBI 22PG101CSC009/StudyPathHubCode/web/src/pages/courses/sample.html",
-          "importPath": "../src/pages/courses/sample.html",
+          "absolutePath": "D:/project/careersubway/web/src/pages/Courses/sample.html",
+          "importPath": "../src/pages/Courses/sample.html",
           "isLayout": false,
           "isReset": false,
           "isIndex": false,
@@ -1119,9 +1119,9 @@ export const _tree = {
             "preload": false,
             "prerender": true
           },
-          "path": "/courses/sample",
-          "id": "_courses_sample",
-          "component": () => import('../src/pages/courses/sample.html').then(m => m.default)
+          "path": "/Courses/sample",
+          "id": "_Courses_sample",
+          "component": () => import('../src/pages/Courses/sample.html').then(m => m.default)
         }
       ],
       "isLayout": false,
@@ -1135,7 +1135,7 @@ export const _tree = {
         "preload": false,
         "prerender": true
       },
-      "path": "/courses"
+      "path": "/Courses"
     },
     {
       "isFile": false,
@@ -1145,7 +1145,7 @@ export const _tree = {
       "name": "dashboard",
       "ext": "",
       "badExt": false,
-      "absolutePath": "G:/miniProject/K PERIYATHAMBI 22PG101CSC009/StudyPathHubCode/web/src/pages/dashboard",
+      "absolutePath": "D:/project/careersubway/web/src/pages/dashboard",
       "children": [
         {
           "isFile": false,
@@ -1155,7 +1155,7 @@ export const _tree = {
           "name": "academicNews",
           "ext": "",
           "badExt": false,
-          "absolutePath": "G:/miniProject/K PERIYATHAMBI 22PG101CSC009/StudyPathHubCode/web/src/pages/dashboard/academicNews",
+          "absolutePath": "D:/project/careersubway/web/src/pages/dashboard/academicNews",
           "children": [
             {
               "isFile": true,
@@ -1165,7 +1165,7 @@ export const _tree = {
               "name": "index",
               "ext": "svelte",
               "badExt": false,
-              "absolutePath": "G:/miniProject/K PERIYATHAMBI 22PG101CSC009/StudyPathHubCode/web/src/pages/dashboard/academicNews/index.svelte",
+              "absolutePath": "D:/project/careersubway/web/src/pages/dashboard/academicNews/index.svelte",
               "importPath": "../src/pages/dashboard/academicNews/index.svelte",
               "isLayout": false,
               "isReset": false,
@@ -1204,7 +1204,7 @@ export const _tree = {
           "name": "careerResources",
           "ext": "",
           "badExt": false,
-          "absolutePath": "G:/miniProject/K PERIYATHAMBI 22PG101CSC009/StudyPathHubCode/web/src/pages/dashboard/careerResources",
+          "absolutePath": "D:/project/careersubway/web/src/pages/dashboard/careerResources",
           "children": [
             {
               "isFile": true,
@@ -1214,7 +1214,7 @@ export const _tree = {
               "name": "index",
               "ext": "svelte",
               "badExt": false,
-              "absolutePath": "G:/miniProject/K PERIYATHAMBI 22PG101CSC009/StudyPathHubCode/web/src/pages/dashboard/careerResources/index.svelte",
+              "absolutePath": "D:/project/careersubway/web/src/pages/dashboard/careerResources/index.svelte",
               "importPath": "../src/pages/dashboard/careerResources/index.svelte",
               "isLayout": false,
               "isReset": false,
@@ -1253,7 +1253,7 @@ export const _tree = {
           "name": "chatForum",
           "ext": "",
           "badExt": false,
-          "absolutePath": "G:/miniProject/K PERIYATHAMBI 22PG101CSC009/StudyPathHubCode/web/src/pages/dashboard/chatForum",
+          "absolutePath": "D:/project/careersubway/web/src/pages/dashboard/chatForum",
           "children": [
             {
               "isFile": true,
@@ -1263,7 +1263,7 @@ export const _tree = {
               "name": "index",
               "ext": "svelte",
               "badExt": false,
-              "absolutePath": "G:/miniProject/K PERIYATHAMBI 22PG101CSC009/StudyPathHubCode/web/src/pages/dashboard/chatForum/index.svelte",
+              "absolutePath": "D:/project/careersubway/web/src/pages/dashboard/chatForum/index.svelte",
               "importPath": "../src/pages/dashboard/chatForum/index.svelte",
               "isLayout": false,
               "isReset": false,
@@ -1302,7 +1302,7 @@ export const _tree = {
           "name": "index",
           "ext": "svelte",
           "badExt": false,
-          "absolutePath": "G:/miniProject/K PERIYATHAMBI 22PG101CSC009/StudyPathHubCode/web/src/pages/dashboard/index.svelte",
+          "absolutePath": "D:/project/careersubway/web/src/pages/dashboard/index.svelte",
           "importPath": "../src/pages/dashboard/index.svelte",
           "isLayout": false,
           "isReset": false,
@@ -1327,7 +1327,7 @@ export const _tree = {
           "name": "oldiindex",
           "ext": "svelte",
           "badExt": false,
-          "absolutePath": "G:/miniProject/K PERIYATHAMBI 22PG101CSC009/StudyPathHubCode/web/src/pages/dashboard/oldiindex.svelte",
+          "absolutePath": "D:/project/careersubway/web/src/pages/dashboard/oldiindex.svelte",
           "importPath": "../src/pages/dashboard/oldiindex.svelte",
           "isLayout": false,
           "isReset": false,
@@ -1352,7 +1352,7 @@ export const _tree = {
           "name": "pageLoadContainer",
           "ext": "svelte",
           "badExt": false,
-          "absolutePath": "G:/miniProject/K PERIYATHAMBI 22PG101CSC009/StudyPathHubCode/web/src/pages/dashboard/pageLoadContainer.svelte",
+          "absolutePath": "D:/project/careersubway/web/src/pages/dashboard/pageLoadContainer.svelte",
           "importPath": "../src/pages/dashboard/pageLoadContainer.svelte",
           "isLayout": false,
           "isReset": false,
@@ -1377,7 +1377,7 @@ export const _tree = {
           "name": "sideBar",
           "ext": "svelte",
           "badExt": false,
-          "absolutePath": "G:/miniProject/K PERIYATHAMBI 22PG101CSC009/StudyPathHubCode/web/src/pages/dashboard/sideBar.svelte",
+          "absolutePath": "D:/project/careersubway/web/src/pages/dashboard/sideBar.svelte",
           "importPath": "../src/pages/dashboard/sideBar.svelte",
           "isLayout": false,
           "isReset": false,
@@ -1402,7 +1402,7 @@ export const _tree = {
           "name": "tutorials",
           "ext": "",
           "badExt": false,
-          "absolutePath": "G:/miniProject/K PERIYATHAMBI 22PG101CSC009/StudyPathHubCode/web/src/pages/dashboard/tutorials",
+          "absolutePath": "D:/project/careersubway/web/src/pages/dashboard/tutorials",
           "children": [
             {
               "isFile": true,
@@ -1412,7 +1412,7 @@ export const _tree = {
               "name": "index",
               "ext": "svelte",
               "badExt": false,
-              "absolutePath": "G:/miniProject/K PERIYATHAMBI 22PG101CSC009/StudyPathHubCode/web/src/pages/dashboard/tutorials/index.svelte",
+              "absolutePath": "D:/project/careersubway/web/src/pages/dashboard/tutorials/index.svelte",
               "importPath": "../src/pages/dashboard/tutorials/index.svelte",
               "isLayout": false,
               "isReset": false,
@@ -1465,7 +1465,7 @@ export const _tree = {
       "name": "global",
       "ext": "svelte",
       "badExt": false,
-      "absolutePath": "G:/miniProject/K PERIYATHAMBI 22PG101CSC009/StudyPathHubCode/web/src/pages/global.svelte",
+      "absolutePath": "D:/project/careersubway/web/src/pages/global.svelte",
       "importPath": "../src/pages/global.svelte",
       "isLayout": false,
       "isReset": false,
@@ -1490,7 +1490,7 @@ export const _tree = {
       "name": "index",
       "ext": "svelte",
       "badExt": false,
-      "absolutePath": "G:/miniProject/K PERIYATHAMBI 22PG101CSC009/StudyPathHubCode/web/src/pages/index.svelte",
+      "absolutePath": "D:/project/careersubway/web/src/pages/index.svelte",
       "importPath": "../src/pages/index.svelte",
       "isLayout": false,
       "isReset": false,
@@ -1515,7 +1515,7 @@ export const _tree = {
       "name": "landingPages",
       "ext": "",
       "badExt": false,
-      "absolutePath": "G:/miniProject/K PERIYATHAMBI 22PG101CSC009/StudyPathHubCode/web/src/pages/landingPages",
+      "absolutePath": "D:/project/careersubway/web/src/pages/landingPages",
       "children": [
         {
           "isFile": true,
@@ -1525,7 +1525,7 @@ export const _tree = {
           "name": "blog",
           "ext": "svelte",
           "badExt": false,
-          "absolutePath": "G:/miniProject/K PERIYATHAMBI 22PG101CSC009/StudyPathHubCode/web/src/pages/landingPages/blog.svelte",
+          "absolutePath": "D:/project/careersubway/web/src/pages/landingPages/blog.svelte",
           "importPath": "../src/pages/landingPages/blog.svelte",
           "isLayout": false,
           "isReset": false,
@@ -1550,7 +1550,7 @@ export const _tree = {
           "name": "discoverPage",
           "ext": "svelte",
           "badExt": false,
-          "absolutePath": "G:/miniProject/K PERIYATHAMBI 22PG101CSC009/StudyPathHubCode/web/src/pages/landingPages/discoverPage.svelte",
+          "absolutePath": "D:/project/careersubway/web/src/pages/landingPages/discoverPage.svelte",
           "importPath": "../src/pages/landingPages/discoverPage.svelte",
           "isLayout": false,
           "isReset": false,
@@ -1575,7 +1575,7 @@ export const _tree = {
           "name": "faq",
           "ext": "svelte",
           "badExt": false,
-          "absolutePath": "G:/miniProject/K PERIYATHAMBI 22PG101CSC009/StudyPathHubCode/web/src/pages/landingPages/faq.svelte",
+          "absolutePath": "D:/project/careersubway/web/src/pages/landingPages/faq.svelte",
           "importPath": "../src/pages/landingPages/faq.svelte",
           "isLayout": false,
           "isReset": false,
@@ -1600,7 +1600,7 @@ export const _tree = {
           "name": "joinUs",
           "ext": "svelte",
           "badExt": false,
-          "absolutePath": "G:/miniProject/K PERIYATHAMBI 22PG101CSC009/StudyPathHubCode/web/src/pages/landingPages/joinUs.svelte",
+          "absolutePath": "D:/project/careersubway/web/src/pages/landingPages/joinUs.svelte",
           "importPath": "../src/pages/landingPages/joinUs.svelte",
           "isLayout": false,
           "isReset": false,
@@ -1625,7 +1625,7 @@ export const _tree = {
           "name": "keyFeaturesPage",
           "ext": "svelte",
           "badExt": false,
-          "absolutePath": "G:/miniProject/K PERIYATHAMBI 22PG101CSC009/StudyPathHubCode/web/src/pages/landingPages/keyFeaturesPage.svelte",
+          "absolutePath": "D:/project/careersubway/web/src/pages/landingPages/keyFeaturesPage.svelte",
           "importPath": "../src/pages/landingPages/keyFeaturesPage.svelte",
           "isLayout": false,
           "isReset": false,
@@ -1650,7 +1650,7 @@ export const _tree = {
           "name": "knowMoreUs",
           "ext": "svelte",
           "badExt": false,
-          "absolutePath": "G:/miniProject/K PERIYATHAMBI 22PG101CSC009/StudyPathHubCode/web/src/pages/landingPages/knowMoreUs.svelte",
+          "absolutePath": "D:/project/careersubway/web/src/pages/landingPages/knowMoreUs.svelte",
           "importPath": "../src/pages/landingPages/knowMoreUs.svelte",
           "isLayout": false,
           "isReset": false,
@@ -1675,7 +1675,7 @@ export const _tree = {
           "name": "recourseReview",
           "ext": "svelte",
           "badExt": false,
-          "absolutePath": "G:/miniProject/K PERIYATHAMBI 22PG101CSC009/StudyPathHubCode/web/src/pages/landingPages/recourseReview.svelte",
+          "absolutePath": "D:/project/careersubway/web/src/pages/landingPages/recourseReview.svelte",
           "importPath": "../src/pages/landingPages/recourseReview.svelte",
           "isLayout": false,
           "isReset": false,
@@ -1700,7 +1700,7 @@ export const _tree = {
           "name": "typesofCourses",
           "ext": "svelte",
           "badExt": false,
-          "absolutePath": "G:/miniProject/K PERIYATHAMBI 22PG101CSC009/StudyPathHubCode/web/src/pages/landingPages/typesofCourses.svelte",
+          "absolutePath": "D:/project/careersubway/web/src/pages/landingPages/typesofCourses.svelte",
           "importPath": "../src/pages/landingPages/typesofCourses.svelte",
           "isLayout": false,
           "isReset": false,
@@ -1725,7 +1725,7 @@ export const _tree = {
           "name": "wellcomePage",
           "ext": "svelte",
           "badExt": false,
-          "absolutePath": "G:/miniProject/K PERIYATHAMBI 22PG101CSC009/StudyPathHubCode/web/src/pages/landingPages/wellcomePage.svelte",
+          "absolutePath": "D:/project/careersubway/web/src/pages/landingPages/wellcomePage.svelte",
           "importPath": "../src/pages/landingPages/wellcomePage.svelte",
           "isLayout": false,
           "isReset": false,
@@ -1764,7 +1764,7 @@ export const _tree = {
       "name": "resources",
       "ext": "",
       "badExt": false,
-      "absolutePath": "G:/miniProject/K PERIYATHAMBI 22PG101CSC009/StudyPathHubCode/web/src/pages/resources",
+      "absolutePath": "D:/project/careersubway/web/src/pages/resources",
       "children": [
         {
           "isFile": false,
@@ -1774,7 +1774,7 @@ export const _tree = {
           "name": "educationlevel",
           "ext": "",
           "badExt": false,
-          "absolutePath": "G:/miniProject/K PERIYATHAMBI 22PG101CSC009/StudyPathHubCode/web/src/pages/resources/educationlevel",
+          "absolutePath": "D:/project/careersubway/web/src/pages/resources/educationlevel",
           "children": [
             {
               "isFile": false,
@@ -1784,7 +1784,7 @@ export const _tree = {
               "name": "diploma",
               "ext": "",
               "badExt": false,
-              "absolutePath": "G:/miniProject/K PERIYATHAMBI 22PG101CSC009/StudyPathHubCode/web/src/pages/resources/educationlevel/diploma",
+              "absolutePath": "D:/project/careersubway/web/src/pages/resources/educationlevel/diploma",
               "children": [
                 {
                   "isFile": true,
@@ -1794,7 +1794,7 @@ export const _tree = {
                   "name": "index",
                   "ext": "svelte",
                   "badExt": false,
-                  "absolutePath": "G:/miniProject/K PERIYATHAMBI 22PG101CSC009/StudyPathHubCode/web/src/pages/resources/educationlevel/diploma/index.svelte",
+                  "absolutePath": "D:/project/careersubway/web/src/pages/resources/educationlevel/diploma/index.svelte",
                   "importPath": "../src/pages/resources/educationlevel/diploma/index.svelte",
                   "isLayout": false,
                   "isReset": false,
@@ -1833,7 +1833,7 @@ export const _tree = {
               "name": "doctoral",
               "ext": "",
               "badExt": false,
-              "absolutePath": "G:/miniProject/K PERIYATHAMBI 22PG101CSC009/StudyPathHubCode/web/src/pages/resources/educationlevel/doctoral",
+              "absolutePath": "D:/project/careersubway/web/src/pages/resources/educationlevel/doctoral",
               "children": [
                 {
                   "isFile": true,
@@ -1843,7 +1843,7 @@ export const _tree = {
                   "name": "doctoralsub",
                   "ext": "svelte",
                   "badExt": false,
-                  "absolutePath": "G:/miniProject/K PERIYATHAMBI 22PG101CSC009/StudyPathHubCode/web/src/pages/resources/educationlevel/doctoral/doctoralsub.svelte",
+                  "absolutePath": "D:/project/careersubway/web/src/pages/resources/educationlevel/doctoral/doctoralsub.svelte",
                   "importPath": "../src/pages/resources/educationlevel/doctoral/doctoralsub.svelte",
                   "isLayout": false,
                   "isReset": false,
@@ -1868,7 +1868,7 @@ export const _tree = {
                   "name": "index",
                   "ext": "svelte",
                   "badExt": false,
-                  "absolutePath": "G:/miniProject/K PERIYATHAMBI 22PG101CSC009/StudyPathHubCode/web/src/pages/resources/educationlevel/doctoral/index.svelte",
+                  "absolutePath": "D:/project/careersubway/web/src/pages/resources/educationlevel/doctoral/index.svelte",
                   "importPath": "../src/pages/resources/educationlevel/doctoral/index.svelte",
                   "isLayout": false,
                   "isReset": false,
@@ -1907,7 +1907,7 @@ export const _tree = {
               "name": "highersecondary",
               "ext": "",
               "badExt": false,
-              "absolutePath": "G:/miniProject/K PERIYATHAMBI 22PG101CSC009/StudyPathHubCode/web/src/pages/resources/educationlevel/highersecondary",
+              "absolutePath": "D:/project/careersubway/web/src/pages/resources/educationlevel/highersecondary",
               "children": [
                 {
                   "isFile": true,
@@ -1917,7 +1917,7 @@ export const _tree = {
                   "name": "highersecondarysub",
                   "ext": "svelte",
                   "badExt": false,
-                  "absolutePath": "G:/miniProject/K PERIYATHAMBI 22PG101CSC009/StudyPathHubCode/web/src/pages/resources/educationlevel/highersecondary/highersecondarysub.svelte",
+                  "absolutePath": "D:/project/careersubway/web/src/pages/resources/educationlevel/highersecondary/highersecondarysub.svelte",
                   "importPath": "../src/pages/resources/educationlevel/highersecondary/highersecondarysub.svelte",
                   "isLayout": false,
                   "isReset": false,
@@ -1942,7 +1942,7 @@ export const _tree = {
                   "name": "index",
                   "ext": "svelte",
                   "badExt": false,
-                  "absolutePath": "G:/miniProject/K PERIYATHAMBI 22PG101CSC009/StudyPathHubCode/web/src/pages/resources/educationlevel/highersecondary/index.svelte",
+                  "absolutePath": "D:/project/careersubway/web/src/pages/resources/educationlevel/highersecondary/index.svelte",
                   "importPath": "../src/pages/resources/educationlevel/highersecondary/index.svelte",
                   "isLayout": false,
                   "isReset": false,
@@ -1981,7 +1981,7 @@ export const _tree = {
               "name": "index",
               "ext": "svelte",
               "badExt": false,
-              "absolutePath": "G:/miniProject/K PERIYATHAMBI 22PG101CSC009/StudyPathHubCode/web/src/pages/resources/educationlevel/index.svelte",
+              "absolutePath": "D:/project/careersubway/web/src/pages/resources/educationlevel/index.svelte",
               "importPath": "../src/pages/resources/educationlevel/index.svelte",
               "isLayout": false,
               "isReset": false,
@@ -2006,7 +2006,7 @@ export const _tree = {
               "name": "mphil",
               "ext": "",
               "badExt": false,
-              "absolutePath": "G:/miniProject/K PERIYATHAMBI 22PG101CSC009/StudyPathHubCode/web/src/pages/resources/educationlevel/mphil",
+              "absolutePath": "D:/project/careersubway/web/src/pages/resources/educationlevel/mphil",
               "children": [
                 {
                   "isFile": true,
@@ -2016,7 +2016,7 @@ export const _tree = {
                   "name": "index",
                   "ext": "svelte",
                   "badExt": false,
-                  "absolutePath": "G:/miniProject/K PERIYATHAMBI 22PG101CSC009/StudyPathHubCode/web/src/pages/resources/educationlevel/mphil/index.svelte",
+                  "absolutePath": "D:/project/careersubway/web/src/pages/resources/educationlevel/mphil/index.svelte",
                   "importPath": "../src/pages/resources/educationlevel/mphil/index.svelte",
                   "isLayout": false,
                   "isReset": false,
@@ -2041,7 +2041,7 @@ export const _tree = {
                   "name": "mphilsub",
                   "ext": "svelte",
                   "badExt": false,
-                  "absolutePath": "G:/miniProject/K PERIYATHAMBI 22PG101CSC009/StudyPathHubCode/web/src/pages/resources/educationlevel/mphil/mphilsub.svelte",
+                  "absolutePath": "D:/project/careersubway/web/src/pages/resources/educationlevel/mphil/mphilsub.svelte",
                   "importPath": "../src/pages/resources/educationlevel/mphil/mphilsub.svelte",
                   "isLayout": false,
                   "isReset": false,
@@ -2080,7 +2080,7 @@ export const _tree = {
               "name": "postdoctoral",
               "ext": "",
               "badExt": false,
-              "absolutePath": "G:/miniProject/K PERIYATHAMBI 22PG101CSC009/StudyPathHubCode/web/src/pages/resources/educationlevel/postdoctoral",
+              "absolutePath": "D:/project/careersubway/web/src/pages/resources/educationlevel/postdoctoral",
               "children": [
                 {
                   "isFile": true,
@@ -2090,7 +2090,7 @@ export const _tree = {
                   "name": "index",
                   "ext": "svelte",
                   "badExt": false,
-                  "absolutePath": "G:/miniProject/K PERIYATHAMBI 22PG101CSC009/StudyPathHubCode/web/src/pages/resources/educationlevel/postdoctoral/index.svelte",
+                  "absolutePath": "D:/project/careersubway/web/src/pages/resources/educationlevel/postdoctoral/index.svelte",
                   "importPath": "../src/pages/resources/educationlevel/postdoctoral/index.svelte",
                   "isLayout": false,
                   "isReset": false,
@@ -2115,7 +2115,7 @@ export const _tree = {
                   "name": "postdoctoralsub",
                   "ext": "svelte",
                   "badExt": false,
-                  "absolutePath": "G:/miniProject/K PERIYATHAMBI 22PG101CSC009/StudyPathHubCode/web/src/pages/resources/educationlevel/postdoctoral/postdoctoralsub.svelte",
+                  "absolutePath": "D:/project/careersubway/web/src/pages/resources/educationlevel/postdoctoral/postdoctoralsub.svelte",
                   "importPath": "../src/pages/resources/educationlevel/postdoctoral/postdoctoralsub.svelte",
                   "isLayout": false,
                   "isReset": false,
@@ -2154,7 +2154,7 @@ export const _tree = {
               "name": "postgraduate",
               "ext": "",
               "badExt": false,
-              "absolutePath": "G:/miniProject/K PERIYATHAMBI 22PG101CSC009/StudyPathHubCode/web/src/pages/resources/educationlevel/postgraduate",
+              "absolutePath": "D:/project/careersubway/web/src/pages/resources/educationlevel/postgraduate",
               "children": [
                 {
                   "isFile": true,
@@ -2164,7 +2164,7 @@ export const _tree = {
                   "name": "index",
                   "ext": "svelte",
                   "badExt": false,
-                  "absolutePath": "G:/miniProject/K PERIYATHAMBI 22PG101CSC009/StudyPathHubCode/web/src/pages/resources/educationlevel/postgraduate/index.svelte",
+                  "absolutePath": "D:/project/careersubway/web/src/pages/resources/educationlevel/postgraduate/index.svelte",
                   "importPath": "../src/pages/resources/educationlevel/postgraduate/index.svelte",
                   "isLayout": false,
                   "isReset": false,
@@ -2189,7 +2189,7 @@ export const _tree = {
                   "name": "postgraduatesub",
                   "ext": "svelte",
                   "badExt": false,
-                  "absolutePath": "G:/miniProject/K PERIYATHAMBI 22PG101CSC009/StudyPathHubCode/web/src/pages/resources/educationlevel/postgraduate/postgraduatesub.svelte",
+                  "absolutePath": "D:/project/careersubway/web/src/pages/resources/educationlevel/postgraduate/postgraduatesub.svelte",
                   "importPath": "../src/pages/resources/educationlevel/postgraduate/postgraduatesub.svelte",
                   "isLayout": false,
                   "isReset": false,
@@ -2228,7 +2228,7 @@ export const _tree = {
               "name": "secondary",
               "ext": "",
               "badExt": false,
-              "absolutePath": "G:/miniProject/K PERIYATHAMBI 22PG101CSC009/StudyPathHubCode/web/src/pages/resources/educationlevel/secondary",
+              "absolutePath": "D:/project/careersubway/web/src/pages/resources/educationlevel/secondary",
               "children": [
                 {
                   "isFile": true,
@@ -2238,7 +2238,7 @@ export const _tree = {
                   "name": "about",
                   "ext": "svelte",
                   "badExt": false,
-                  "absolutePath": "G:/miniProject/K PERIYATHAMBI 22PG101CSC009/StudyPathHubCode/web/src/pages/resources/educationlevel/secondary/about.svelte",
+                  "absolutePath": "D:/project/careersubway/web/src/pages/resources/educationlevel/secondary/about.svelte",
                   "importPath": "../src/pages/resources/educationlevel/secondary/about.svelte",
                   "isLayout": false,
                   "isReset": false,
@@ -2263,7 +2263,7 @@ export const _tree = {
                   "name": "index",
                   "ext": "svelte",
                   "badExt": false,
-                  "absolutePath": "G:/miniProject/K PERIYATHAMBI 22PG101CSC009/StudyPathHubCode/web/src/pages/resources/educationlevel/secondary/index.svelte",
+                  "absolutePath": "D:/project/careersubway/web/src/pages/resources/educationlevel/secondary/index.svelte",
                   "importPath": "../src/pages/resources/educationlevel/secondary/index.svelte",
                   "isLayout": false,
                   "isReset": false,
@@ -2288,7 +2288,7 @@ export const _tree = {
                   "name": "job",
                   "ext": "svelte",
                   "badExt": false,
-                  "absolutePath": "G:/miniProject/K PERIYATHAMBI 22PG101CSC009/StudyPathHubCode/web/src/pages/resources/educationlevel/secondary/job.svelte",
+                  "absolutePath": "D:/project/careersubway/web/src/pages/resources/educationlevel/secondary/job.svelte",
                   "importPath": "../src/pages/resources/educationlevel/secondary/job.svelte",
                   "isLayout": false,
                   "isReset": false,
@@ -2313,7 +2313,7 @@ export const _tree = {
                   "name": "major",
                   "ext": "svelte",
                   "badExt": false,
-                  "absolutePath": "G:/miniProject/K PERIYATHAMBI 22PG101CSC009/StudyPathHubCode/web/src/pages/resources/educationlevel/secondary/major.svelte",
+                  "absolutePath": "D:/project/careersubway/web/src/pages/resources/educationlevel/secondary/major.svelte",
                   "importPath": "../src/pages/resources/educationlevel/secondary/major.svelte",
                   "isLayout": false,
                   "isReset": false,
@@ -2338,7 +2338,7 @@ export const _tree = {
                   "name": "secondarysub",
                   "ext": "svelte",
                   "badExt": false,
-                  "absolutePath": "G:/miniProject/K PERIYATHAMBI 22PG101CSC009/StudyPathHubCode/web/src/pages/resources/educationlevel/secondary/secondarysub.svelte",
+                  "absolutePath": "D:/project/careersubway/web/src/pages/resources/educationlevel/secondary/secondarysub.svelte",
                   "importPath": "../src/pages/resources/educationlevel/secondary/secondarysub.svelte",
                   "isLayout": false,
                   "isReset": false,
@@ -2377,7 +2377,7 @@ export const _tree = {
               "name": "teaching",
               "ext": "",
               "badExt": false,
-              "absolutePath": "G:/miniProject/K PERIYATHAMBI 22PG101CSC009/StudyPathHubCode/web/src/pages/resources/educationlevel/teaching",
+              "absolutePath": "D:/project/careersubway/web/src/pages/resources/educationlevel/teaching",
               "children": [
                 {
                   "isFile": true,
@@ -2387,7 +2387,7 @@ export const _tree = {
                   "name": "index",
                   "ext": "svelte",
                   "badExt": false,
-                  "absolutePath": "G:/miniProject/K PERIYATHAMBI 22PG101CSC009/StudyPathHubCode/web/src/pages/resources/educationlevel/teaching/index.svelte",
+                  "absolutePath": "D:/project/careersubway/web/src/pages/resources/educationlevel/teaching/index.svelte",
                   "importPath": "../src/pages/resources/educationlevel/teaching/index.svelte",
                   "isLayout": false,
                   "isReset": false,
@@ -2412,7 +2412,7 @@ export const _tree = {
                   "name": "teachingsub",
                   "ext": "svelte",
                   "badExt": false,
-                  "absolutePath": "G:/miniProject/K PERIYATHAMBI 22PG101CSC009/StudyPathHubCode/web/src/pages/resources/educationlevel/teaching/teachingsub.svelte",
+                  "absolutePath": "D:/project/careersubway/web/src/pages/resources/educationlevel/teaching/teachingsub.svelte",
                   "importPath": "../src/pages/resources/educationlevel/teaching/teachingsub.svelte",
                   "isLayout": false,
                   "isReset": false,
@@ -2451,7 +2451,7 @@ export const _tree = {
               "name": "undergraduate",
               "ext": "",
               "badExt": false,
-              "absolutePath": "G:/miniProject/K PERIYATHAMBI 22PG101CSC009/StudyPathHubCode/web/src/pages/resources/educationlevel/undergraduate",
+              "absolutePath": "D:/project/careersubway/web/src/pages/resources/educationlevel/undergraduate",
               "children": [
                 {
                   "isFile": true,
@@ -2461,7 +2461,7 @@ export const _tree = {
                   "name": "index",
                   "ext": "svelte",
                   "badExt": false,
-                  "absolutePath": "G:/miniProject/K PERIYATHAMBI 22PG101CSC009/StudyPathHubCode/web/src/pages/resources/educationlevel/undergraduate/index.svelte",
+                  "absolutePath": "D:/project/careersubway/web/src/pages/resources/educationlevel/undergraduate/index.svelte",
                   "importPath": "../src/pages/resources/educationlevel/undergraduate/index.svelte",
                   "isLayout": false,
                   "isReset": false,
@@ -2486,7 +2486,7 @@ export const _tree = {
                   "name": "undergraduatesub",
                   "ext": "svelte",
                   "badExt": false,
-                  "absolutePath": "G:/miniProject/K PERIYATHAMBI 22PG101CSC009/StudyPathHubCode/web/src/pages/resources/educationlevel/undergraduate/undergraduatesub.svelte",
+                  "absolutePath": "D:/project/careersubway/web/src/pages/resources/educationlevel/undergraduate/undergraduatesub.svelte",
                   "importPath": "../src/pages/resources/educationlevel/undergraduate/undergraduatesub.svelte",
                   "isLayout": false,
                   "isReset": false,
@@ -2539,7 +2539,7 @@ export const _tree = {
           "name": "getStart",
           "ext": "svelte",
           "badExt": false,
-          "absolutePath": "G:/miniProject/K PERIYATHAMBI 22PG101CSC009/StudyPathHubCode/web/src/pages/resources/getStart.svelte",
+          "absolutePath": "D:/project/careersubway/web/src/pages/resources/getStart.svelte",
           "importPath": "../src/pages/resources/getStart.svelte",
           "isLayout": false,
           "isReset": false,
@@ -2564,7 +2564,7 @@ export const _tree = {
           "name": "index",
           "ext": "svelte",
           "badExt": false,
-          "absolutePath": "G:/miniProject/K PERIYATHAMBI 22PG101CSC009/StudyPathHubCode/web/src/pages/resources/index.svelte",
+          "absolutePath": "D:/project/careersubway/web/src/pages/resources/index.svelte",
           "importPath": "../src/pages/resources/index.svelte",
           "isLayout": false,
           "isReset": false,
@@ -2589,7 +2589,7 @@ export const _tree = {
           "name": "sample",
           "ext": "html",
           "badExt": false,
-          "absolutePath": "G:/miniProject/K PERIYATHAMBI 22PG101CSC009/StudyPathHubCode/web/src/pages/resources/sample.html",
+          "absolutePath": "D:/project/careersubway/web/src/pages/resources/sample.html",
           "importPath": "../src/pages/resources/sample.html",
           "isLayout": false,
           "isReset": false,
@@ -2628,7 +2628,7 @@ export const _tree = {
       "name": "template",
       "ext": "",
       "badExt": false,
-      "absolutePath": "G:/miniProject/K PERIYATHAMBI 22PG101CSC009/StudyPathHubCode/web/src/pages/template",
+      "absolutePath": "D:/project/careersubway/web/src/pages/template",
       "children": [
         {
           "isFile": true,
@@ -2638,7 +2638,7 @@ export const _tree = {
           "name": "indexdesign",
           "ext": "svelte",
           "badExt": false,
-          "absolutePath": "G:/miniProject/K PERIYATHAMBI 22PG101CSC009/StudyPathHubCode/web/src/pages/template/indexdesign.svelte",
+          "absolutePath": "D:/project/careersubway/web/src/pages/template/indexdesign.svelte",
           "importPath": "../src/pages/template/indexdesign.svelte",
           "isLayout": false,
           "isReset": false,
@@ -2677,7 +2677,7 @@ export const _tree = {
       "name": "themes",
       "ext": "",
       "badExt": false,
-      "absolutePath": "G:/miniProject/K PERIYATHAMBI 22PG101CSC009/StudyPathHubCode/web/src/pages/themes",
+      "absolutePath": "D:/project/careersubway/web/src/pages/themes",
       "children": [
         {
           "isFile": true,
@@ -2687,7 +2687,7 @@ export const _tree = {
           "name": "aboutdesign",
           "ext": "svelte",
           "badExt": false,
-          "absolutePath": "G:/miniProject/K PERIYATHAMBI 22PG101CSC009/StudyPathHubCode/web/src/pages/themes/aboutdesign.svelte",
+          "absolutePath": "D:/project/careersubway/web/src/pages/themes/aboutdesign.svelte",
           "importPath": "../src/pages/themes/aboutdesign.svelte",
           "isLayout": false,
           "isReset": false,
@@ -2712,7 +2712,7 @@ export const _tree = {
           "name": "buttonStyle",
           "ext": "svelte",
           "badExt": false,
-          "absolutePath": "G:/miniProject/K PERIYATHAMBI 22PG101CSC009/StudyPathHubCode/web/src/pages/themes/buttonStyle.svelte",
+          "absolutePath": "D:/project/careersubway/web/src/pages/themes/buttonStyle.svelte",
           "importPath": "../src/pages/themes/buttonStyle.svelte",
           "isLayout": false,
           "isReset": false,
@@ -2737,7 +2737,7 @@ export const _tree = {
           "name": "jobdesign",
           "ext": "svelte",
           "badExt": false,
-          "absolutePath": "G:/miniProject/K PERIYATHAMBI 22PG101CSC009/StudyPathHubCode/web/src/pages/themes/jobdesign.svelte",
+          "absolutePath": "D:/project/careersubway/web/src/pages/themes/jobdesign.svelte",
           "importPath": "../src/pages/themes/jobdesign.svelte",
           "isLayout": false,
           "isReset": false,
@@ -2762,7 +2762,7 @@ export const _tree = {
           "name": "majordesign",
           "ext": "svelte",
           "badExt": false,
-          "absolutePath": "G:/miniProject/K PERIYATHAMBI 22PG101CSC009/StudyPathHubCode/web/src/pages/themes/majordesign.svelte",
+          "absolutePath": "D:/project/careersubway/web/src/pages/themes/majordesign.svelte",
           "importPath": "../src/pages/themes/majordesign.svelte",
           "isLayout": false,
           "isReset": false,
@@ -2787,7 +2787,7 @@ export const _tree = {
           "name": "Template",
           "ext": "svelte",
           "badExt": false,
-          "absolutePath": "G:/miniProject/K PERIYATHAMBI 22PG101CSC009/StudyPathHubCode/web/src/pages/themes/Template.svelte",
+          "absolutePath": "D:/project/careersubway/web/src/pages/themes/Template.svelte",
           "importPath": "../src/pages/themes/Template.svelte",
           "isLayout": false,
           "isReset": false,
